@@ -1,0 +1,236 @@
+
+1. Virology. 2015 Jan 1;474:10-8. doi: 10.1016/j.virol.2014.10.015. Epub 2014 Nov 7.
+
+Primate lentiviruses are differentially inhibited by interferon-induced
+transmembrane proteins.
+
+Qian J(1), Le Duff Y(2), Wang Y(1), Pan Q(2), Ding S(3), Zheng YM(4), Liu SL(4), 
+Liang C(5).
+
+Author information: 
+(1)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2; Department of Medicine, McGill University, Montreal, Quebec, Canada H3A 2B4.
+(2)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2.
+(3)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2; Department of Microbiology and Immunology, McGill University, Montreal,
+Quebec, Canada H3A 2B4.
+(4)Department of Molecular Microbiology & Immunology, School of Medicine, Bond
+Life Sciences Center, University of Missouri, Columbia, MO 65211-7310, USA.
+(5)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2; Department of Medicine, McGill University, Montreal, Quebec, Canada H3A 2B4;
+Department of Microbiology and Immunology, McGill University, Montreal, Quebec,
+Canada H3A 2B4. Electronic address: chen.liang@mcgill.ca.
+
+Interferon-induced transmembrane (IFITM) proteins inhibit the entry of a large
+number of viruses. Not surprisingly, many viruses are refractory to this
+inhibition. In this study, we report that different strains of HIV and SIV are
+inhibited by human IFITM proteins to various degrees, with SIV of African green
+monkeys (SIV(AGM)) being mostly restricted by human IFITM2. Interestingly,
+SIV(AGM) is as much inhibited by human IFITM2 as by IFITM3 of its own host
+African green monkeys. Our data further demonstrate that the entry of SIV(AGM) is
+impaired by human IFITM2 and that this inhibition is overcome by the
+cholesterol-binding compound amphotericin B that also overcomes IFITM inhibition 
+of influenza A viruses. These results suggest that IFITM proteins exploit similar
+mechanisms to inhibit the entry of both pH-independent primate lentiviruses and
+the pH-dependent influenza A viruses.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2014.10.015 
+PMCID: PMC4581848
+PMID: 25463599  [Indexed for MEDLINE]
+
+
+2. PLoS One. 2014 Jun 30;9(6):e101056. doi: 10.1371/journal.pone.0101056.
+eCollection 2014.
+
+HIV-1 and its gp120 inhibits the influenza A(H1N1)pdm09 life cycle in an
+IFITM3-dependent fashion.
+
+Mesquita M(1), Fintelman-Rodrigues N(1), Sacramento CQ(1), Abrantes JL(1), Costa 
+E(1), Temerozo JR(2), Siqueira MM(1), Bou-Habib DC(2), Souza TM(1).
+
+Author information: 
+(1)Respiratory Viruses Laboratory, WHO/NIC, Oswaldo Cruz Institute/Fiocruz, Rio
+de Janeiro, RJ, Brazil.
+(2)Laboratory on Thymus Research, Oswaldo Cruz Institute/Fiocruz, Rio de Janeiro,
+RJ, Brazil.
+
+HIV-1-infected patients co-infected with A(H1N1)pdm09 surprisingly presented
+benign clinical outcome. The knowledge that HIV-1 changes the host homeostatic
+equilibrium, which may favor the patient resistance to some co-pathogens,
+prompted us to investigate whether HIV-1 infection could influence A(H1N1)pdm09
+life cycle in vitro. We show here that exposure of A(H1N1)pdm09-infected
+epithelial cells to HIV-1 viral particles or its gp120 enhanced by 25% the IFITM3
+content, resulting in a decrease in influenza replication. This event was
+dependent on toll-like receptor 2 and 4. Moreover, knockdown of IFITM3 prevented 
+HIV-1 ability to inhibit A(H1N1)pdm09 replication. HIV-1 infection also increased
+IFITM3 levels in human primary macrophages by almost 100%. Consequently, the
+arrival of influenza ribonucleoproteins (RNPs) to nucleus of macrophages was
+inhibited, as evaluated by different approaches. Reduction of influenza RNPs
+entry into the nucleus tolled A(H1N1)pdm09 life cycle in macrophages earlier than
+usual, limiting influenza's ability to induce TNF-α. As judged by analysis of the
+influenza hemagglutin (HA) gene from in vitro experiments and from samples of
+HIV-1/A(H1N1)pdm09 co-infected individuals, the HIV-1-induced reduction of
+influenza replication resulted in delayed viral evolution. Our results may
+provide insights on the mechanisms that may have attenuated the clinical course
+of Influenza in HIV-1/A(H1N1)pdm09 co-infected patients during the recent
+influenza form 2009/2010.
+
+DOI: 10.1371/journal.pone.0101056 
+PMCID: PMC4076258
+PMID: 24978204  [Indexed for MEDLINE]
+
+
+3. Gastroenterology. 2013 Dec;145(6):1404-13.e1-10. doi:
+10.1053/j.gastro.2013.08.034. Epub 2013 Aug 22.
+
+Use of laser capture microdissection to map hepatitis C virus-positive
+hepatocytes in human liver.
+
+Kandathil AJ(1), Graw F, Quinn J, Hwang HS, Torbenson M, Perelson AS, Ray SC,
+Thomas DL, Ribeiro RM, Balagopal A.
+
+Author information: 
+(1)Department of Medicine, Johns Hopkins University Baltimore, Maryland.
+
+Comment in
+    Gastroenterology. 2013 Dec;145(6):1199-202.
+
+BACKGROUND & AIMS: Hepatitis C virus (HCV) predominantly infects hepatocytes, but
+many hepatocytes are not infected; studies have shown that HCV antigens cluster
+within the liver. We investigated spatial distribution and determinants of HCV
+replication in human liver samples.
+METHODS: We analyzed liver samples from 4 patients with chronic HCV infection
+(genotype 1, Metavir scores 0-1) to estimate the proportion of infected
+hepatocytes and the amount of HCV viral RNA (vRNA) per cell. Single-cell laser
+capture microdissection was used to capture more than 1000 hepatocytes in grids, 
+to preserve geometric relationships. HCV vRNA and interferon-induced
+transmembrane protein 3 (IFITM3) messenger RNA (the transcript of an
+interferon-stimulated gene) were measured in the same hepatocytes by quantitative
+polymerase chain reaction and assembled in maps to identify areas of high and low
+HCV replication.
+RESULTS: Patients' serum levels of HCV RNA ranged from 6.87 to 7.40 log10 IU/mL; 
+the proportion of HCV-infected hepatocytes per person ranged from 21% to 45%, and
+the level of vRNA ranged from 1 to 50 IU/hepatocyte. Infection was not random; we
+identified clustering of HCV-positive hepatocytes using infected-neighbor
+analysis (P < .0005) and distance to the kth nearest neighbor compared with
+random distributions, obtained by bootstrap simulations (P < .02). Hepatocytes
+that expressed IFITM3 did not appear to cluster and were largely HCV negative.
+CONCLUSIONS: We used single-cell laser capture and high-resolution analysis to
+show that in human liver HCV infects hepatocytes in nonrandom clusters, whereas
+expression of antiviral molecules is scattered among hepatocytes. These findings 
+show that quantitative single-cell RNA measurements can be used to estimate the
+abundance of HCV vRNA per infected human hepatocyte and are consistent with
+cell-cell propagation of infection in the absence of clustered IFITM3.
+
+Copyright © 2013 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2013.08.034 
+PMCID: PMC4005338
+PMID: 23973767  [Indexed for MEDLINE]
+
+
+4. J Immunol. 2013 Feb 15;190(4):1583-90. doi: 10.4049/jimmunol.1202920. Epub 2013
+Jan 11.
+
+IFN-α treatment inhibits acute Friend retrovirus replication primarily through
+the antiviral effector molecule Apobec3.
+
+Harper MS(1), Barrett BS, Smith DS, Li SX, Gibbert K, Dittmer U, Hasenkrug KJ,
+Santiago ML.
+
+Author information: 
+(1)Department of Medicine, University of Colorado Denver, Aurora, CO 80045, USA.
+
+Therapeutic administration of IFN-α in clinical trials significantly reduced
+HIV-1 plasma viral load and human T-lymphotropic virus type I proviral load in
+infected patients. The mechanism may involve the concerted action of multiple
+antiretroviral effectors collectively known as "restriction factors," which could
+vary in relative importance according to the magnitude of transcriptional
+induction. However, direct genetic approaches to identify the relevant IFN-α
+restriction factors will not be feasible in humans in vivo. Meanwhile, mice
+encode an analogous set of restriction factor genes and could be used to obtain
+insights on how IFN-α could inhibit retroviruses in vivo. As expected, IFN-α
+treatment of mice significantly upregulated the transcription of multiple
+restriction factors including Tetherin/BST2, SAMHD1, Viperin, ISG15, OAS1, and
+IFITM3. However, a dominant antiretroviral factor, Apobec3, was only minimally
+induced. To determine whether Apobec3 was necessary for direct IFN-α
+antiretroviral action in vivo, wild-type and Apobec3-deficient mice were infected
+with Friend retrovirus, then treated with IFN-α. Treatment of infected wild-type 
+mice with IFN-α significantly reduced acute plasma viral load 28-fold, splenic
+proviral load 5-fold, bone marrow proviral load 14-fold, and infected bone marrow
+cells 7-fold, but no inhibition was observed in Apobec3-deficient mice. These
+findings reveal that IFN-α inhibits acute Friend retrovirus infection primarily
+through the antiviral effector Apobec3 in vivo, demonstrate that transcriptional 
+induction levels did not predict the mechanism of IFN-α-mediated control, and
+highlight the potential of the human APOBEC3 proteins as therapeutic targets
+against pathogenic retrovirus infections.
+
+DOI: 10.4049/jimmunol.1202920 
+PMCID: PMC3654153
+PMID: 23315078  [Indexed for MEDLINE]
+
+
+5. J Virol. 2012 Dec;86(24):13697-707. doi: 10.1128/JVI.01828-12. Epub 2012 Oct 10.
+
+The N-terminal region of IFITM3 modulates its antiviral activity by regulating
+IFITM3 cellular localization.
+
+Jia R(1), Pan Q, Ding S, Rong L, Liu SL, Geng Y, Qiao W, Liang C.
+
+Author information: 
+(1)Key Laboratory of Molecular Microbiology and Biotechnology (Ministry of
+Education) and Key Laboratory of Microbial Functional Genomics (Tianjin), College
+of Life Sciences, Nankai University, Tianjin, China.
+
+Interferon-inducible transmembrane (IFITM) protein family members IFITM1, -2, and
+-3 restrict the infection of multiple enveloped viruses. Significant enrichment
+of a minor IFITM3 allele was recently reported for patients who were hospitalized
+for seasonal and 2009 H1N1 pandemic flu. This IFITM3 allele lacks the region
+corresponding to the first amino-terminal 21 amino acids and is unable to inhibit
+influenza A virus. In this study, we found that deleting this 21-amino-acid
+region relocates IFITM3 from the endosomal compartments to the cell periphery.
+This finding likely underlies the lost inhibition of influenza A virus that
+completes its entry exclusively within endosomes at low pH. Yet, wild-type IFITM3
+and the mutant with the 21-amino-acid deletion inhibit HIV-1 replication equally 
+well. Given the pH-independent nature of HIV-1 entry, our results suggest that
+IFITM3 can inhibit viruses that enter cells via different routes and that its
+N-terminal region is specifically required for controlling pH-dependent viruses.
+
+DOI: 10.1128/JVI.01828-12 
+PMCID: PMC3503121
+PMID: 23055554  [Indexed for MEDLINE]
+
+
+6. J Virol. 2011 Mar;85(5):2126-37. doi: 10.1128/JVI.01531-10. Epub 2010 Dec 22.
+
+The IFITM proteins inhibit HIV-1 infection.
+
+Lu J(1), Pan Q, Rong L, He W, Liu SL, Liang C.
+
+Author information: 
+(1)McGill AIDS Centre, Lady Davis Institute-Jewish General Hospital, Montreal,
+Quebec, Canada.
+
+Erratum in
+    J Virol. 2011 Apr;85(8):4043. He, Wei [added].
+
+Type I interferon protects cells from virus infection through the induction of a 
+group of genes collectively named interferon-stimulated genes (ISGs). In this
+study, we utilized short hairpin RNA (shRNA) to deplete ISGs in SupT1 cells in
+order to identify ISGs that suppress the production of human immunodeficiency
+virus type 1 (HIV-1). Among the ISG candidates thus identified were
+interferon-induced transmembrane (IFITM) proteins, including IFITM1, IFITM2, and 
+IFITM3, that potently inhibit HIV-1 replication at least partially through
+interfering with virus entry. Further mutagenesis analysis shows that the
+intracellular region, rather than the N- and C-terminal extracellular domains, is
+essential for the antiviral activity of IFITM1. Altogether, these data suggest
+that the IFITM proteins serve as important components of the innate immune system
+to restrict HIV-1 infection.
+
+DOI: 10.1128/JVI.01531-10 
+PMCID: PMC3067758
+PMID: 21177806  [Indexed for MEDLINE]
+

@@ -1,0 +1,2 @@
+each protein was searched on pubmed useing the following syntax (gene symbol = XXX, gene name = yyyyyy): XXX[title/abstract] OR yyyyyy[title/abstract]
+if high numbers of absracts were found, the time period was limited to 2014.

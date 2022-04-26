@@ -1,0 +1,3250 @@
+
+1. Oncol Lett. 2019 Mar;17(3):2825-2835. doi: 10.3892/ol.2019.9900. Epub 2019 Jan 8.
+
+Identification of B-cell translocation gene 1-controlled gene networks in diffuse
+large B-cell lymphoma: A study based on bioinformatics analysis.
+
+Yan W(1), Li SX(2), Gao H(1), Yang W(1).
+
+Author information: 
+(1)Department of Hematology, Shengjing Hospital of China Medical University,
+Shenyang, Liaoning 110022, P.R. China.
+(2)International College, China Medical University, Shenyang, Liaoning 110022,
+P.R. China.
+
+B-cell translocation gene 1 (BTG1) is a member of the BTG/transducer of Erb
+family. The present study evaluated the impact of BTG1 gene expression on the
+clinical outcome of diffuse large B-cell lymphoma (DLBCL) and investigated
+potential mechanisms using the Gene Expression Omnibus (GEO) database. The gene
+expression profile datasets GSE31312, GSE10846, GSE65420 and GSE87371 were
+downloaded from the GEO database. BTG1 expression and clinicopathological data
+were obtained from the GSE31312 dataset. In 498 cases, the expression of BTG1 in 
+DLBCL was associated with treatment response (χ2=19.020; P<0.001) and
+International Prognostic Index score (χ2=5.320; P=0.025). Using the Kaplan-Meier 
+method, it was identified that the expression of BTG1 was associated with overall
+survival (OS) and progression-free survival (PFS) times. Univariate and
+multivariate Cox regression analysis demonstrated that BTG1 was an independent
+predictive factor for OS and PFS. From the overlapping analysis of 407
+BTG1-associated genes and 22,187 DLBCL-associated genes, 401 genes were
+identified as BTG1-associated DLBCL genes. Pathway analysis revealed that
+BTG1-associated DLBCL genes were associated with cancer progression and DLBCL
+signaling pathways. Subsequently, a protein-protein interaction network was
+constructed of the BTG1-associated genes, which consisted of 235 genes and 601
+interactions. Additionally, 24 genes with high degrees in the network were
+identified as hub genes, which included genes associated with 'ribosome'
+[ribosomal protein (RP) L11, RPL3, RPS29, RPL19, RPL15 and RPL12], 'cell cycle'
+(ubiquitin carboxyl extension protein 52, ATM and Ras homolog family member H),
+'mitogen-activated protein kinase pathway' (mitogen-activated protein kinase 1), 
+'histone modification' (ASH1-like protein) and 'transcription/translation'
+(eukaryotic translation initiation factor 3 subunit E, eukaryotic translation
+elongation factor 1 δ, transcription termination factor 1, cAMP responsive
+element binding protein 1 and RNA polymerase II subunit F). In conclusion, BTG1
+may serve as a predictive biomarker for DLBCL prognosis. Additionally,
+bioinformatics analysis indicated that BTG1 may exhibit key functions in the
+progression and development of DLBCL.
+
+DOI: 10.3892/ol.2019.9900 
+PMCID: PMC6365947
+PMID: 30854058 
+
+
+2. Mol Med Rep. 2019 Mar;19(3):2065-2076. doi: 10.3892/mmr.2019.9849. Epub 2019 Jan 
+11.
+
+Identification of key genes and pathways involved in microsatellite instability
+in colorectal cancer.
+
+Yu C(1), Hong H(1), Zhang S(1), Zong Y(1), Ma J(1), Lu A(1), Sun J(1), Zheng
+M(1).
+
+Author information: 
+(1)Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University 
+School of Medicine, Shanghai 200025, P.R. China.
+
+Microsatellite instability (MSI) has emerged as one of the key biological
+features of colorectal cancer (CRC). However, controversies remain regarding the 
+association between the MSI status and clinicopathological characteristics of
+CRC. Therefore, it is crucial to identify potential key genes and pathways
+associated with MSI in CRC. In the present study, the GSE25071 gene expression
+profile was retrieved, with thirty‑eight cases of microsatellite stable (MSS),
+five of MSI‑High (MSI‑H) and three of MSI‑Low (MSI‑L) CRC patients. The
+differentially expressed genes (DEGs) were analyzed by Gene Ontology (GO), Kyoto 
+Encyclopedia of Genes and Genomes pathway enrichment, gene set enrichment
+analysis (GSEA) and gene co‑expression network analysis. Weighted gene
+correlation network analysis (WGCNA) was used for the gene modules and
+correlation of clinical traits. A total of forty‑nine DEGs were identified
+between MSI‑H and MSS, including six upregulated and forty‑three downregulated
+DEGs. Only the DEGs of MSI‑H and MSS were subjected to subsequent analysis
+(limited number of DEGs of MSI‑L and MSS, MSI‑H and MSI‑L). RNA metabolic
+process, endoplasmic reticulum and chemokine receptor binding were the top ranked
+terms in GO enrichment. The hub genes of co‑expression network of DEGs included
+zinc finger protein (ZNF) 813, ZNF426, ZNF611, ZNF320 and ZNF573. The GSEA of
+MSI‑H and MSS indicated that the mammalian target of rapamycin complex 1
+signaling was significantly enriched with a nominal P‑value of 0.038 and
+normalized enrichment score of 0.446. The WGCNA results showed that the pink
+module was the top in correlation with MSI status (R2=0.5, P=0.0004). The genes
+in the pink module were significantly enriched in proteins targeting to
+endoplasmic reticulum, cytosolic part, structural constituent of ribosome and
+ribosome pathway. The hub genes identified in the pink module were ribosomal
+protein L12 (RPL12), RPS3A, RPS9, RPL27A, RPL7, RPL28, RPL14, RPS17,
+mitochondrial ribosomal protein L16, and G elongation factor, mitochondrial 2.
+The present study identified key genes and pathways associated with MSI,
+providing insightful mechanisms.
+
+DOI: 10.3892/mmr.2019.9849 
+PMCID: PMC6390070
+PMID: 30664178 
+
+
+3. Comput Biol Chem. 2019 Feb;78:431-439. doi: 10.1016/j.compbiolchem.2018.12.011.
+Epub 2018 Dec 26.
+
+Network-based approach to identify molecular signatures and therapeutic agents in
+Alzheimer's disease.
+
+Rahman MR(1), Islam T(2), Turanli B(3), Zaman T(4), Faruquee HM(5), Rahman MM(2),
+Mollah MNH(6), Nanda RK(7), Arga KY(8), Gov E(9), Moni MA(10).
+
+Author information: 
+(1)Department of Biotechnology and Genetic Engineering, Islamic University,
+Kushtia, Bangladesh; Department of Biochemistry and Biotechnology, School of
+Biomedical Science, Khwaja Yunus Ali University, Sirajgonj, Bangladesh.
+(2)Department of Biotechnology and Genetic Engineering, Islamic University,
+Kushtia, Bangladesh.
+(3)Department of Bioengineering, Istanbul Medeniyet University, Istanbul, Turkey;
+Department of Bioengineering, Marmara University, Istanbul, Turkey.
+(4)Department of Biochemistry and Biotechnology, School of Biomedical Science,
+Khwaja Yunus Ali University, Sirajgonj, Bangladesh.
+(5)Department of Biotechnology and Genetic Engineering, Islamic University,
+Kushtia, Bangladesh; Translational Health, International Centre for Genetic
+Engineering and Biotechnology, New Delhi, India.
+(6)Laboratory of Bioinformatics, Department of Statistics, University of
+Rajshahi, Rajshahi, Bangladesh.
+(7)Translational Health, International Centre for Genetic Engineering and
+Biotechnology, New Delhi, India.
+(8)Department of Bioengineering, Marmara University, Istanbul, Turkey.
+(9)Department of Bioengineering, Adana Science and Technology University, Adana, 
+Turkey. Electronic address: egov@adanabtu.edu.tr.
+(10)The University of Sydney, Sydney Medical School, School of Medical Sciences, 
+Discipline of Biomedical Science, Sydney, New South Wales, Australia. Electronic 
+address: mohammad.moni@sydney.edu.au.
+
+Alzheimer's disease (AD) is a dynamic degeneration of the brain with progressive 
+dementia. Considering the uncertainties in its molecular mechanism, in the
+present study, we employed network-based integrative analyses, and aimed to
+explore the key molecules and their associations with small drugs to identify
+potential biomarkers and therapeutic agents for the AD. First of all, we studied 
+a transcriptome dataset and identified 1521 differentially expressed genes
+(DEGs). Integration of transcriptome data with protein-protein and
+transcriptional regulatory interactions resulted with central (hub) proteins
+(UBA52, RAC1, CREBBP, AR, RPS11, SMAD3, RPS6, RPL12, RPL15, and UBC), regulatory 
+transcription factors (FOXC1, GATA2, YY1, FOXL1, NFIC, E2F1, USF2, SRF, PPARG,
+and JUN) and microRNAs (mir-335-5p, mir-26b-5p, mir-93-5p, mir-124-3p, mir-17-5p,
+mir-16-5p, mir-20a-5p, mir-92a-3p, mir-106b-5p, and mir-192-5p) as key signaling 
+and regulatory molecules associated with transcriptional changes for the AD.
+Considering these key molecules as potential therapeutic targets and Connectivity
+Map (CMap) architecture, candidate small molecular agents (such as STOCK1N-35696)
+were identified as novel potential therapeutics for the AD. This study presents
+molecular signatures at RNA and protein levels which might be useful in
+increasing discernment of the molecular mechanisms, and potential drug targets
+and therapeutics to design effective treatment strategies for the AD.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiolchem.2018.12.011 
+PMID: 30606694  [Indexed for MEDLINE]
+
+
+4. Mol Cell. 2018 Oct 4;72(1):84-98.e9. doi: 10.1016/j.molcel.2018.08.019. Epub 2018
+Sep 13.
+
+Phosphorylation of the Ribosomal Protein RPL12/uL11 Affects Translation during
+Mitosis.
+
+Imami K(1), Milek M(2), Bogdanow B(2), Yasuda T(2), Kastelic N(2), Zauber H(2),
+Ishihama Y(3), Landthaler M(4), Selbach M(5).
+
+Author information: 
+(1)Max Delbrück Center for Molecular Medicine, Robert-Rössle-Str. 10, 13092
+Berlin, Germany; Department of Molecular and Cellular BioAnalysis, Kyoto
+University, 606-8501 Kyoto, Japan. Electronic address:
+imami.koshi.3z@kyoto-u.ac.jp.
+(2)Max Delbrück Center for Molecular Medicine, Robert-Rössle-Str. 10, 13092
+Berlin, Germany.
+(3)Department of Molecular and Cellular BioAnalysis, Kyoto University, 606-8501
+Kyoto, Japan.
+(4)Max Delbrück Center for Molecular Medicine, Robert-Rössle-Str. 10, 13092
+Berlin, Germany; IRI Life Sciences, Institute für Biologie, Humboldt Universität 
+zu Berlin, Philippstraße 13, 10115 Berlin, Germany.
+(5)Max Delbrück Center for Molecular Medicine, Robert-Rössle-Str. 10, 13092
+Berlin, Germany; Charité-Universitätsmedizin Berlin, 10117 Berlin, Germany.
+Electronic address: matthias.selbach@mdc-berlin.de.
+
+Emerging evidence indicates that heterogeneity in ribosome composition can give
+rise to specialized functions. Until now, research mainly focused on differences 
+in core ribosomal proteins and associated factors. The effect of
+posttranslational modifications has not been studied systematically. Analyzing
+ribosome heterogeneity is challenging because individual proteins can be part of 
+different subcomplexes (40S, 60S, 80S, and polysomes). Here we develop polysome
+proteome profiling to obtain unbiased proteomic maps across ribosomal
+subcomplexes. Our method combines extensive fractionation by sucrose gradient
+centrifugation with quantitative mass spectrometry. The high resolution of the
+profiles allows us to assign proteins to specific subcomplexes. Phosphoproteomics
+on the fractions reveals that phosphorylation of serine 38 in RPL12/uL11, a known
+mitotic CDK1 substrate, is strongly depleted in polysomes. Follow-up experiments 
+confirm that RPL12/uL11 phosphorylation regulates the translation of specific
+subsets of mRNAs during mitosis. Together, our results show that
+posttranslational modification of ribosomal proteins can regulate translation.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2018.08.019 
+PMID: 30220558 
+
+
+5. Biomed Res Int. 2018 Jul 31;2018:1828253. doi: 10.1155/2018/1828253. eCollection 
+2018.
+
+Identification and Validation of Reference Genes for RT-qPCR Normalization in
+Mythimna separata (Lepidoptera: Noctuidae).
+
+Li K(1), Xu N(1), Yang YJ(1), Zhang JH(1), Yin H(1).
+
+Author information: 
+(1)College of Life Sciences, Shanxi Normal University, Linfen 041004, China.
+
+Mythimna separata is a major agricultural pest with seasonal migrating trait in
+China. Formation and regulation mechanism of migration behavior has resulted in a
+large number of fundamental researches involving quantitative studies of gene
+expression in this species. Using appropriate reference gene is critical in
+RT-qPCR data normalization. A comprehensive study on the reference genes in M.
+separata is lacking. In this paper, expression stabilities of ten candidate
+reference genes were evaluated in M. separata under various biotic and abiotic
+conditions by employing four different software geNorm, NormFinder, BestKeeper,
+and the comparative ΔCT method. The comprehensive stabilities ranking of these
+genes were suggested by RefFinder. PKG as a target gene was employed to justify
+the number of reference genes in four larval tissues and two photoperiod
+treatments. Results demonstrate that the first three most stable genes were as
+follows: EF, CypA, and β-TUB for developmental stages; EF, CypA, and RPL12 for
+larval tissues; EF, TBP, and β-TUB for adult tissues. RPL12, β-TUB, and EF for
+densities; EF, RPL12, and GAPDH for photoperiod treatments; β-TUB, EF, and ATPase
+for temperature treatments. Stable reference gene combinations may reduce bias in
+normalization. This work provides for the first time a comprehensive list of
+appropriate reference genes and facilitates future studies on gene function of M.
+separata.
+
+DOI: 10.1155/2018/1828253 
+PMCID: PMC6091413
+PMID: 30151374  [Indexed for MEDLINE]
+
+
+6. Plant Physiol. 2018 Oct;178(2):626-640. doi: 10.1104/pp.18.00257. Epub 2018 Aug
+9.
+
+SMALL AUXIN UP RNA62/75 Are Required for the Translation of Transcripts Essential
+for Pollen Tube Growth.
+
+He SL(1)(2), Hsieh HL(1), Jauh GY(3)(4)(5).
+
+Author information: 
+(1)Institute of Plant Biology, National Taiwan University, Taipei 10617, Taiwan.
+(2)Institute of Plant and Microbial Biology, Academia Sinica, Taipei 11529,
+Taiwan.
+(3)Institute of Plant and Microbial Biology, Academia Sinica, Taipei 11529,
+Taiwan jauh@gate.sinica.edu.tw.
+(4)Molecular and Biological Agricultural Sciences, Taiwan International Graduate 
+Program, National Chung-Hsing University, Academia Sinica, Taipei 11529, Taiwan.
+(5)Biotechnology Center, National Chung-Hsing University, Taichung 40227, Taiwan.
+
+Successful pollen tube elongation is critical for double fertilization, but the
+biological functions of pollen tube genes and the regulatory machinery underlying
+this crucial process are largely unknown. A previous translatomic study revealed 
+two Arabidopsis (Arabidopsis thaliana) SAUR (SMALL AUXIN UP RNA) genes, SAUR62
+and SAUR75, whose expression is up-regulated by pollination. Here, we found that 
+both SAUR62 and SAUR75 localized mainly to pollen tube nuclei. The siliques of
+homozygous saur62 (saur62/-), saur75 (saur75/-), and the SAUR62/75 RNA
+interference (RNAi) knockdown line had many aborted seeds. These lines had normal
+pollen viability but defective in vitro and in vivo pollen tube growth, with
+branching phenotypes. Immunoprecipitation with transgenic SAUR62/75-GFP flowers
+revealed ribosomal protein RPL12 family members as potential interacting
+partners, and their individual interactions were confirmed further by yeast
+two-hybrid and bimolecular fluorescence complementation assays. Polysome
+profiling showed reduced 80S ribosome abundance in homozygous saur62, saur75,
+ribosomal large subunit12c, and SAUR62/75 RNAi flowers, suggesting that SAUR62/75
+play roles in ribosome assembly. To clarify their roles in translation, we
+analyzed total proteins from RNAi versus wild-type flowers by isobaric tags for
+relative and absolute quantitation, revealing significantly reduced expression of
+factors participating in pollen tube wall biogenesis and F-actin dynamics, which 
+are critical for the elastic properties of tube elongation. Indeed, RNAi pollen
+tubes showed mislocalization of deesterified and esterified pectins and F-actin
+organization. Thus, the biological roles of SAUR62/75 and their RPL12 partners
+are critical in ribosomal pre-60S subunit assembly for efficient pollen tube
+elongation and subsequent fertilization.
+
+© 2018 American Society of Plant Biologists. All rights reserved.
+
+DOI: 10.1104/pp.18.00257 
+PMCID: PMC6181030
+PMID: 30093526  [Indexed for MEDLINE]
+
+
+7. PLoS Biol. 2016 May 11;14(5):e1002462. doi: 10.1371/journal.pbio.1002462.
+eCollection 2016 May.
+
+Ribosomal Stalk Protein Silencing Partially Corrects the ΔF508-CFTR Functional
+Expression Defect.
+
+Veit G(1), Oliver K(2)(3), Apaja PM(1), Perdomo D(1), Bidaud-Meynard A(1), Lin
+ST(1), Guo J(2), Icyuz M(2), Sorscher EJ(4), Hartman JL IV(2)(3), Lukacs
+GL(1)(5)(6).
+
+Author information: 
+(1)Department of Physiology, McGill University, Montréal, Quebec, Canada.
+(2)Department of Genetics, University of Alabama at Birmingham, Birmingham,
+Alabama, United States of America.
+(3)Gregory Fleming James Cystic Fibrosis Research Center, University of Alabama
+at Birmingham, Birmingham, Alabama, United States of America.
+(4)Department of Pediatrics, Emory University School of Medicine, Atlanta,
+Georgia, United States of America.
+(5)Department of Biochemistry, McGill University, Montréal, Quebec, Canada.
+(6)Groupe de Recherche Axé sur la Structure des Protéines (GRASP), McGill
+University, Montréal, Quebec, Canada.
+
+Erratum in
+    PLoS Biol. 2016 Nov 2;14 (11):e1002574.
+
+The most common cystic fibrosis (CF) causing mutation, deletion of phenylalanine 
+508 (ΔF508 or Phe508del), results in functional expression defect of the CF
+transmembrane conductance regulator (CFTR) at the apical plasma membrane (PM) of 
+secretory epithelia, which is attributed to the degradation of the misfolded
+channel at the endoplasmic reticulum (ER). Deletion of phenylalanine 670 (ΔF670) 
+in the yeast oligomycin resistance 1 gene (YOR1, an ABC transporter) of
+Saccharomyces cerevisiae phenocopies the ΔF508-CFTR folding and trafficking
+defects. Genome-wide phenotypic (phenomic) analysis of the Yor1-ΔF670 biogenesis 
+identified several modifier genes of mRNA processing and translation, which
+conferred oligomycin resistance to yeast. Silencing of orthologues of these
+candidate genes enhanced the ΔF508-CFTR functional expression at the apical PM in
+human CF bronchial epithelia. Although knockdown of RPL12, a component of the
+ribosomal stalk, attenuated the translational elongation rate, it increased the
+folding efficiency as well as the conformational stability of the ΔF508-CFTR,
+manifesting in 3-fold augmented PM density and function of the mutant.
+Combination of RPL12 knockdown with the corrector drug, VX-809 (lumacaftor)
+restored the mutant function to ~50% of the wild-type channel in primary
+CFTRΔF508/ΔF508 human bronchial epithelia. These results and the observation that
+silencing of other ribosomal stalk proteins partially rescue the loss-of-function
+phenotype of ΔF508-CFTR suggest that the ribosomal stalk modulates the folding
+efficiency of the mutant and is a potential therapeutic target for correction of 
+the ΔF508-CFTR folding defect.
+
+DOI: 10.1371/journal.pbio.1002462 
+PMCID: PMC4864299
+PMID: 27168400  [Indexed for MEDLINE]
+
+Conflict of interest statement: JLH is founder and holds equity in Spectrum
+PhenomX LLC, which holds a license from the University of Alabama at Birmingham
+to commercialize Q-HTCP technology. The authors declare no other competing
+interests.
+
+
+8. J Toxicol Sci. 2016 Apr;41(2):293-302. doi: 10.2131/jts.41.293.
+
+Systematic identification of seven ribosomal protein genes in bighead carp and
+their expression in response to microcystin-LR.
+
+Cai Y(1), Zhang C, Hao L, Chen J, Xie P, Chen Z.
+
+Author information: 
+(1)School of Petrolchemical Engneering, Changzhou University, China.
+
+Microcystin-LR (MCLR) is one of the most toxic cyanotoxins produced in algal
+blooms. The toxic effects of MCLR on the expression of some organelles genes
+(mitochondrion, endoplasmic reticulum, and cytoskeleton etc) have been widely
+investigated, but little is known how it impacts on the expression of ribosomal
+genes. In this study we identified seven ribosomal protein genes RPS6, RPS12,
+RPS24, RPS27a, RPL12, RPL27 and RPL29 in bighead carp (Aristichthys nobilis),
+whose expression was regulated by MCLR. The amino acid sequences of those 7 genes
+shared more than 90% identity with corresponding sequences from zebrafish, and
+were well conserved throughout evolution. The 3D structure prediction showed that
+the structures of these ribosomal proteins were conserved, but had species
+specificity. Q-PCR analysis revealed that expression of seven genes changed
+dramatically at 3 hr, then went back to a moderate change- level at 24 hr in
+almost all tested tissues (liver, kidney, intestine, heart, spleen and gill) post
+MCLR injection, but in brain expression of the seven genes stayed same as the
+normal level. This study will help us to know not only about the evolution and
+functions of ribosomal proteins in anti-MCLR response in bighead carp, but also
+about the MCLR toxicity and its impact on aquaculture and human health.
+
+DOI: 10.2131/jts.41.293 
+PMID: 26961614  [Indexed for MEDLINE]
+
+
+9. Plant Mol Biol. 2016 May;91(1-2):161-77. doi: 10.1007/s11103-016-0453-z. Epub
+2016 Feb 12.
+
+A residue substitution in the plastid ribosomal protein L12/AL1 produces
+defective plastid ribosome and causes early seedling lethality in rice.
+
+Zhao DS(1), Zhang CQ(1), Li QF(1), Yang QQ(1), Gu MH(1), Liu QQ(2).
+
+Author information: 
+(1)Key Laboratory of Crop Genetics and Physiology of Jiangsu Province/Key
+Laboratory of Plant Functional Genomics of the Ministry of
+Education/Co-Innovation Center for Modern Production Technology of Grain Crops,
+College of Agriculture, Yangzhou University, Yangzhou, 225009, People's Republic 
+of China.
+(2)Key Laboratory of Crop Genetics and Physiology of Jiangsu Province/Key
+Laboratory of Plant Functional Genomics of the Ministry of
+Education/Co-Innovation Center for Modern Production Technology of Grain Crops,
+College of Agriculture, Yangzhou University, Yangzhou, 225009, People's Republic 
+of China. qqliu@yzu.edu.cn.
+
+The plastid ribosome is essential for chloroplast biogenesis as well as seedling 
+formation. As the plastid ribosome closely resembles the prokaryotic 70S
+ribosome, many plastid ribosomal proteins (PRPs) have been identified in higher
+plants. However, their assembly in the chloroplast ribosome in rice remains
+unclear. In the present study, we identified a novel rice mutant, albino lethal 1
+(al1), from a chromosome segment substitution line population. The al1 mutant
+displayed an albino phenotype at the seedling stage and did not survive past the 
+three-leaf stage. No other apparent differences in plant morphology were observed
+in the al1 mutant. The albino phenotype of the al1 mutant was associated with
+decreased chlorophyll content and abnormal chloroplast morphology. Using fine
+mapping, AL1 was shown to encode the PRPL12, a protein localized in the
+chloroplasts of rice, and a spontaneous single-nucleotide mutation (C/T),
+resulting in a residue substitution from leucine in AL1 to phenylalanine in al1, 
+was found to be responsible for the early seedling lethality. This point mutation
+is located at the L10 interface feature of the L12/AL1 protein. Yeast two-hybrid 
+analysis showed that there was no physical interaction between al1 and PRPL10. In
+addition, the mutation had little effect on the transcript abundance of al1, but 
+had a remarkable effect on the protein abundance of al1 and transcript abundance 
+of chloroplast biogenesis-related and photosynthesis-related genes. These results
+provide a first glimpse into the molecular details of L12's function in rice.
+
+DOI: 10.1007/s11103-016-0453-z 
+PMID: 26873698  [Indexed for MEDLINE]
+
+
+10. Oncol Rep. 2016 Apr;35(4):2089-96. doi: 10.3892/or.2016.4577. Epub 2016 Jan 19.
+
+Benzyl isothiocyanate alters the gene expression with cell cycle regulation and
+cell death in human brain glioblastoma GBM 8401 cells.
+
+Tang NY(1), Chueh FS(2), Yu CC(3), Liao CL(1), Lin JJ(4), Hsia TC(5), Wu KC(6),
+Liu HC(7), Lu KW(8), Chung JG(7).
+
+Author information: 
+(1)School of Chinese Medicine, China Medical University, Taichung 404, Taiwan,
+R.O.C.
+(2)Department of Health and Nutrition Biotechnology, Asia University, Taichung
+413, Taiwan, R.O.C.
+(3)School of Pharmacy, China Medical University, Taichung 404, Taiwan, R.O.C.
+(4)Division of Cardiology, China Medical University Hospital, Taichung 404,
+Taiwan, R.O.C.
+(5)Department of Internal Medicine, China Medical University Hospital, Taichung
+404, Taiwan, R.O.C.
+(6)Department of Anesthesiology, E-Da Hospital/I-Shou University, Kaohsiung 824, 
+Taiwan, R.O.C.
+(7)Department of Biological Science and Technology, China Medical University,
+Taichung 404, Taiwan, R.O.C.
+(8)School of Post-Baccalaureate Chinese Medicine, China Medical University,
+Taichung 404, Taiwan, R.O.C.
+
+Glioblastoma multiforme (GBM) is a highly malignant devastating brain tumor in
+adults. Benzyl isothiocyanate (BITC) is one of the isothiocyanates that have been
+shown to induce human cancer cell apoptosis and cell cycle arrest. Herein, the
+effect of BITC on cell viability and apoptotic cell death and the genetic levels 
+of human brain glioblastoma GBM 8401 cells in vitro were investigated. We found
+that BITC induced cell morphological changes, decreased cell viability and the
+induction of cell apoptosis in GBM 8401 cells was time-dependent. cDNA microarray
+was used to examine the effects of BITC on GBM 8401 cells and we found that
+numerous genes associated with cell death and cell cycle regulation in GBM 8401
+cells were altered after BITC treatment. The results show that expression of 317 
+genes was upregulated, and two genes were associated with DNA damage, the
+DNA-damage-inducible transcript 3 (DDIT3) was increased 3.66-fold and the growth 
+arrest and DNA-damage-inducible α (GADD45A) was increased 2.34-fold. We also
+found that expression of 182 genes was downregulated and two genes were
+associated with receptor for cell responses to stimuli, the EGF containing
+fibulin-like extracellular matrix protein 1 (EFEMP1) was inhibited 2.01-fold and 
+the TNF receptor-associated protein 1 (TRAP1) was inhibited 2.08-fold. BITC
+inhibited seven mitochondria ribosomal genes, the mitochondrial ribosomal
+protein; tumor protein D52 (MRPS28) was inhibited 2.06-fold, the mitochondria
+ribosomal protein S2 (MRPS2) decreased 2.07-fold, the mitochondria ribosomal
+protein L23 (MRPL23) decreased 2.08-fold, the mitochondria ribosomal protein S2
+(MRPS2) decreased 2.07-fold, the mitochondria ribosomal protein S12 (MRPS12)
+decreased 2.08-fold, the mitochondria ribosomal protein L12 (MRPL12) decreased
+2.25-fold and the mitochondria ribosomal protein S34 (MRPS34) was decreased
+2.30-fold in GBM 8401 cells. These changes of gene expression can provide the
+effects of BITC on the genetic level and are potential biomarkers for
+glioblastoma therapy.
+
+DOI: 10.3892/or.2016.4577 
+PMID: 26781422  [Indexed for MEDLINE]
+
+
+11. Front Plant Sci. 2016 Jan 6;6:1192. doi: 10.3389/fpls.2015.01192. eCollection
+2015.
+
+Plant Ribosomal Proteins, RPL12 and RPL19, Play a Role in Nonhost Disease
+Resistance against Bacterial Pathogens.
+
+Nagaraj S(1), Senthil-Kumar M(2), Ramu VS(1), Wang K(1), Mysore KS(1).
+
+Author information: 
+(1)Plant Biology Division, The Samuel Roberts Noble Foundation Inc. Ardmore, OK, 
+USA.
+(2)Plant Biology Division, The Samuel Roberts Noble Foundation Inc.Ardmore, OK,
+USA; National Institute of Plant Genome ResearchNew Delhi, India.
+
+Characterizing the molecular mechanism involved in nonhost disease resistance is 
+important to understand the adaptations of plant-pathogen interactions. In this
+study, virus-induced gene silencing (VIGS)-based forward genetics screen was
+utilized to identify genes involved in nonhost resistance in Nicotiana
+benthamiana. Genes encoding ribosomal proteins, RPL12 and RPL19, were identified 
+in the screening. These genes when silenced in N. benthamiana caused a delay in
+nonhost bacteria induced hypersensitive response (HR) with concurrent increase in
+nonhost bacterial multiplication. Arabidopsis mutants of AtRPL12 and AtRPL19 also
+compromised nonhost resistance. The studies on NbRPL12 and NbRPL19 double
+silenced plants suggested that both RPL12 and RPL19 act in the same pathway to
+confer nonhost resistance. Our work suggests a role for RPL12 and RPL19 in
+nonhost disease resistance in N. benthamiana and Arabidopsis. In addition, we
+show that these genes also play a minor role in basal resistance against virulent
+pathogens.
+
+DOI: 10.3389/fpls.2015.01192 
+PMCID: PMC4702080
+PMID: 26779226 
+
+
+12. J Biol Chem. 2016 Jan 8;291(2):989-97. doi: 10.1074/jbc.M115.689299. Epub 2015
+Nov 19.
+
+Mitochondrial Ribosomal Protein L12 Is Required for POLRMT Stability and Exists
+as Two Forms Generated by Alternative Proteolysis during Import.
+
+Nouws J(1), Goswami AV(1), Bestwick M(2), McCann BJ(3), Surovtseva YV(1), Shadel 
+GS(4).
+
+Author information: 
+(1)From the Departments of Pathology and.
+(2)From the Departments of Pathology and the Department of Chemistry, Linfield
+College, McMinnville, Oregon 97128, and.
+(3)From the Departments of Pathology and the Department of Biology, Technische
+Universität Darmstadt, 64287 Darmstadt, Germany.
+(4)From the Departments of Pathology and Genetics, Yale School of Medicine, New
+Haven, Connecticut 06520-8023, gerald.shadel@yale.edu.
+
+To translate the 13 mtDNA-encoded mRNAs involved in oxidative phosphorylation
+(OXPHOS), mammalian mitochondria contain a dedicated set of ribosomes comprising 
+rRNAs encoded by the mitochondrial genome and mitochondrial ribosomal proteins
+(MRPs) that are encoded by nuclear genes and imported into the matrix. In
+addition to their role in the ribosome, several MRPs have auxiliary functions or 
+have been implicated in other cellular processes like cell cycle regulation and
+apoptosis. For example, we have shown that human MRPL12 binds and activates
+mitochondrial RNA polymerase (POLRMT), and hence has distinct functions in the
+ribosome and mtDNA transcription. Here we provide concrete evidence that there
+are two mature forms of mammalian MRPL12 that are generated by a two-step
+cleavage during import, involving efficient cleavage by mitochondrial processing 
+protease and a second inefficient or regulated cleavage by mitochondrial
+intermediate protease. We also show that knock-down of MRPL12 by RNAi results in 
+instability of POLRMT, but not other primary mitochondrial transcription
+components, and a corresponding decrease in mitochondrial transcription rates.
+Knock-down of MRPL10, the binding partner of MRPL12 in the ribosome, results in
+selective degradation of the mature long form of MRPL12, but has no effect on
+POLRMT. We propose that the two forms of MRPL12 are involved in homeostatic
+regulation of mitochondrial transcription and ribosome biogenesis that likely
+contribute to cell cycle, growth regulation, and longevity pathways to which
+MRPL12 has been linked.
+
+© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M115.689299 
+PMCID: PMC4705416
+PMID: 26586915  [Indexed for MEDLINE]
+
+
+13. Psychoneuroendocrinology. 2015 Oct;60:151-62. doi:
+10.1016/j.psyneuen.2015.06.015. Epub 2015 Jun 28.
+
+Maternal stress predicts altered biogenesis and the profile of mitochondrial
+proteins in the frontal cortex and hippocampus of adult offspring rats.
+
+Głombik K(1), Stachowicz A(2), Ślusarczyk J(1), Trojan E(1), Budziszewska B(1),
+Suski M(2), Kubera M(1), Lasoń W(1), Wędzony K(3), Olszanecki R(2), Basta-Kaim
+A(4).
+
+Author information: 
+(1)Department of Experimental Neuroendocrinology, Institute of Pharmacology,
+Polish Academy of Sciences, 12 Smętna Street, 31-343 Krakow, Poland.
+(2)Chair of Pharmacology, Jagiellonian University Medical College, 16
+Grzegórzecka Street, 31-531 Krakow, Poland.
+(3)Laboratory of Pharmacology and Brain Biostructure, Institute of Pharmacology, 
+Polish Academy of Sciences, 12 Smętna Street, 31-343 Krakow, Poland.
+(4)Department of Experimental Neuroendocrinology, Institute of Pharmacology,
+Polish Academy of Sciences, 12 Smętna Street, 31-343 Krakow, Poland. Electronic
+address: basta@if-pan.krakow.pl.
+
+Currently, much attention is focused on the influence of mitochondrial
+disturbances at the onset of depression. The goal of this study was to
+investigate the impact of prenatal stress (an animal model of depression) on the 
+mitochondrial biogenesis proteins and mitoproteome profile in the frontal cortex 
+and hippocampus of adult 3-month-old male rats following a prenatal stress
+procedure. Our results show that rats that were exposed to prenatal stress
+stimuli displayed depression-like behaviors based on the sucrose preference and
+elevated plus maze tests. It has been found that the level of the PGC-1α protein 
+was reduced in the frontal cortex and hippocampus of the adult offspring after
+the prenatal stress procedure. Moreover, in the frontal cortex, the level of the 
+pro-apoptotic protein Bax was up-regulated. Two-dimensional electrophoresis
+coupled with mass spectrometry showed the statistically significant
+down-regulation of the mitochondrial ribosomal protein L12 (Mrpl12) and
+mitochondrial NADH dehydrogenase [ubiquinone] flavoprotein 2 (NDUFV2) as well as 
+the up-regulation of the Tubulin Polymerization Promoting Proteins (Tppp/p25) in 
+the frontal cortex. In contrast, in the hippocampus, the mitochondrial pyruvate
+dehydrogenase E1 component subunit beta, the voltage-dependent anion-selective
+channel protein 2 (VDAC2), and the GTP-binding nuclear protein RAN (RAN) were
+down-regulated and the expression of phosphatidylethanolamine-binding protein 1
+(PEBP-1) was enhanced. These findings provide new evidence that stress during
+pregnancy may lead not only to behavioral deficits, but also to disturbances in
+the brain mitoproteome profile in adult rat offspring.
+
+Copyright © 2015. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.psyneuen.2015.06.015 
+PMID: 26143539  [Indexed for MEDLINE]
+
+
+14. Reprod Sci. 2015 Dec;22(12):1484-7. doi: 10.1177/1933719115580998. Epub 2015 Apr 
+12.
+
+Potential Therapy for Neisseria Gonorrhoeae Infections With Human Chorionic
+Gonadotropin.
+
+Rao CV(1).
+
+Author information: 
+(1)Departments of Cellular Biology and Pharmacology, Molecular and Human Genetics
+and Obstetrics and Gynecology, Reproduction and Development Program, Herbert
+Wertheim College of Medicine, Florida International University, Miami, FL, USA
+crao@fiu.edu.
+
+The scientific evidence suggests that Neisseria gonorrhoeae (NG) infects human
+fallopian tubes by molecular mimicry in which pathogens act like a ligand to bind
+to epithelial cell surface human chorionic gonadotrophin (hCG)/luteinizing
+hormone (LH) receptors. The hCG-like molecule has been identified as ribosomal
+protein L12 in NG coat surface. Human fallopian tube epithelial cells have been
+shown to contain functional hCG/LH receptors. As previously shown in human
+fallopian tube organ and cell culture studies, cellular invasion and infection
+can be prevented by exposing the cells to excess hCG, which would outnumber and
+outcompete NG for receptor binding. Based on these data, we suggest testing hCG
+in clinical trials on infected women.
+
+© The Author(s) 2015.
+
+DOI: 10.1177/1933719115580998 
+PMID: 25868582  [Indexed for MEDLINE]
+
+
+15. PLoS One. 2014 Nov 25;9(11):e110454. doi: 10.1371/journal.pone.0110454.
+eCollection 2014.
+
+Selection of reference genes for expression analysis using quantitative real-time
+PCR in the pea aphid, Acyrthosiphon pisum (Harris) (Hemiptera, Aphidiae).
+
+Yang C(1), Pan H(2), Liu Y(3), Zhou X(2).
+
+Author information: 
+(1)Hunan Academy of Agricultural Sciences, Institute of Plant Protection,
+Changsha, Hunan, China; Department of Entomology, University of Kentucky,
+Lexington, Kentucky, United States of America.
+(2)Department of Entomology, University of Kentucky, Lexington, Kentucky, United 
+States of America.
+(3)Hunan Academy of Agricultural Sciences, Institute of Plant Protection,
+Changsha, Hunan, China.
+
+To facilitate gene expression study and obtain accurate qRT-PCR analysis,
+normalization relative to stable expressed housekeeping genes is required. In
+this study, expression profiles of 11 candidate reference genes, including actin 
+(Actin), elongation factor 1 α (EF1A), TATA-box-binding protein (TATA), ribosomal
+protein L12 (RPL12), β-tubulin (Tubulin), NADH dehydrogenase (NADH),
+vacuolar-type H+-ATPase (v-ATPase), succinate dehydrogenase B (SDHB), 28S
+ribosomal RNA (28S), 16S ribosomal RNA (16S), and 18S ribosomal RNA (18S) from
+the pea aphid Acyrthosiphon pisum, under different developmental stages and
+temperature conditions, were investigated. A total of four analytical tools,
+geNorm, Normfinder, BestKeeper, and the ΔCt method, were used to evaluate the
+suitability of these genes as endogenous controls. According to RefFinder, a
+web-based software tool which integrates all four above-mentioned algorithms to
+compare and rank the reference genes, SDHB, 16S, and NADH were the three most
+stable house-keeping genes under different developmental stages and temperatures.
+This work is intended to establish a standardized qRT-PCR protocol in pea aphid
+and serves as a starting point for the genomics and functional genomics research 
+in this emerging insect model.
+
+DOI: 10.1371/journal.pone.0110454 
+PMCID: PMC4244036
+PMID: 25423476  [Indexed for MEDLINE]
+
+
+16. PLoS One. 2014 Aug 8;9(8):e103900. doi: 10.1371/journal.pone.0103900. eCollection
+2014.
+
+Selection of reference genes for gene expression studies in Siberian Apricot
+(Prunus sibirica L.) Germplasm using quantitative real-time PCR.
+
+Niu J(1), Zhu B(1), Cai J(1), Li P(2), Wang L(3), Dai H(2), Qiu L(2), Yu H(3), Ha
+D(2), Zhao H(2), Zhang Z(1), Lin S(1).
+
+Author information: 
+(1)College of Biological Sciences and Biotechnology, College of Nature
+Conservation, National Engineering Laboratory for Tree Breeding, Key Laboratory
+of Genetics and Breeding in Forest Trees and Ornamental Plants, Ministry of
+Education, Beijing Forestry University, Beijing, China.
+(2)Jigongshan National Nature Reserve, Xingyang, China.
+(3)Research Institute of Forestry, Chinese Academy of Forestry, Beijing, China.
+
+Quantitative real time reverse transcription polymerase chain reaction has been
+applied in a vast range of studies of gene expression analysis. However,
+real-time PCR data must be normalized with one or more reference genes. In this
+study, eleven putative consistently expressed genes (ACT, TUA, TUB, CYP, DNAj,
+ELFA, F-box27, RPL12, GAPDH, UBC and UBQ) in nine Siberian Apricot Germplasms
+(including much variability) were evaluated for their potential as references for
+the normalization of gene expression by NormFinder and geNorm programs. From our 
+studies, ACT, UBC, CYP, UBQ and RPL12 as suitable for normalization were
+identified by geNorm, while UBC and CYP as the best pair by NormFinder. Moreover,
+UBC was selected as the most stably expressed gene by both algorithms in
+different Siberian Apricot seed samples. We also detected that a set of three
+genes (ACT, CYP and UBC) by geNorm as control for normalization could lead to
+accurate results. Furthermore, the expression levels of oleosin gene were
+analyzed to validate the suitability of the selected reference genes. These
+obtained experimental results could make an important contribution to normalize
+real-time PCR data for gene expression analysis in Siberian Apricot Germplasm.
+
+DOI: 10.1371/journal.pone.0103900 
+PMCID: PMC4126684
+PMID: 25105495  [Indexed for MEDLINE]
+
+
+17. J Bacteriol. 2014 Oct;196(19):3377-85. doi: 10.1128/JB.01584-14. Epub 2014 Jul 7.
+
+The RimL transacetylase provides resistance to translation inhibitor microcin C.
+
+Kazakov T(1), Kuznedelov K(1), Semenova E(1), Mukhamedyarov D(1), Datsenko KA(2),
+Metlitskaya A(3), Vondenhoff GH(4), Tikhonov A(5), Agarwal V(6), Nair S(6), Van
+Aerschot A(4), Severinov K(7).
+
+Author information: 
+(1)Waksman Institute, Piscataway, New Jersey, USA.
+(2)Purdue University, West Lafayette, Indiana, USA.
+(3)Institute of Molecular Genetics, Russian Academy of Sciences, Moscow, Russia.
+(4)Laboratory of Medicinal Chemistry, Rega Institute for Medical Research, K.U.
+Leuven, Leuven, Belgium.
+(5)Institute of Gene Biology, Russian Academy of Sciences, Moscow, Russia.
+(6)University of Illinois, Urbana, Illinois, USA.
+(7)Waksman Institute, Piscataway, New Jersey, USA Institute of Molecular
+Genetics, Russian Academy of Sciences, Moscow, Russia St. Petersburg State
+Polytechnical University, St. Petersburg, Russia Institute of Gene Biology,
+Russian Academy of Sciences, Moscow, Russia Skolkovo Institute of Science and
+Technology, Skolkovo, Russia severik@waksman.rutgers.edu.
+
+Peptide-nucleotide antibiotic microcin C (McC) is produced by some Escherichia
+coli strains. Inside a sensitive cell, McC is processed, releasing a
+nonhydrolyzable analog of aspartyl-adenylate, which inhibits aspartyl-tRNA
+synthetase. The product of mccE, a gene from the plasmid-borne McC biosynthetic
+cluster, acetylates processed McC, converting it into a nontoxic compound. MccE
+is homologous to chromosomally encoded acetyltransferases RimI, RimJ, and RimL,
+which acetylate, correspondingly, the N termini of ribosomal proteins S18, S5,
+and L12. Here, we show that E. coli RimL, but not other Rim acetyltransferases,
+provides a basal level of resistance to McC and various toxic nonhydrolyzable
+aminoacyl adenylates. RimL acts by acetylating processed McC, which along with
+ribosomal protein L12 should be considered a natural RimL substrate. When
+overproduced, RimL also makes cells resistant to albomycin, an antibiotic that
+upon intracellular processing gives rise to a seryl-thioribosyl pyrimidine that
+targets seryl-tRNA synthetase. We further show that E. coli YhhY, a protein
+related to Rim acetyltransferases but without a known function, is also able to
+detoxify several nonhydrolyzable aminoacyl adenylates but not processed McC. We
+propose that RimL and YhhY protect bacteria from various toxic aminoacyl
+nucleotides, either exogenous or those generated inside the cell during normal
+metabolism.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JB.01584-14 
+PMCID: PMC4187662
+PMID: 25002546  [Indexed for MEDLINE]
+
+
+18. PLoS One. 2014 Jun 4;9(6):e99081. doi: 10.1371/journal.pone.0099081. eCollection 
+2014.
+
+Detecting selection in the blue crab, Callinectes sapidus, using DNA sequence
+data from multiple nuclear protein-coding genes.
+
+Yednock BK(1), Neigel JE(1).
+
+Author information: 
+(1)Biology Department, University of Louisiana at Lafayette, Lafayette,
+Louisiana, United States of America.
+
+The identification of genes involved in the adaptive evolution of non-model
+organisms with uncharacterized genomes constitutes a major challenge. This study 
+employed a rigorous and targeted candidate gene approach to test for positive
+selection on protein-coding genes of the blue crab, Callinectes sapidus. Four
+genes with putative roles in physiological adaptation to environmental stress
+were chosen as candidates. A fifth gene not expected to play a role in
+environmental adaptation was used as a control. Large samples (n>800) of DNA
+sequences from C. sapidus were used in tests of selective neutrality based on
+sequence polymorphisms. In combination with these, sequences from the congener C.
+similis were used in neutrality tests based on interspecific divergence. In
+multiple tests, significant departures from neutral expectations and indicative
+of positive selection were found for the candidate gene trehalose 6-phosphate
+synthase (tps). These departures could not be explained by any of the historical 
+population expansion or bottleneck scenarios that were evaluated in coalescent
+simulations. Evidence was also found for balancing selection at ATP-synthase
+subunit 9 (atps) using a maximum likelihood version of the Hudson, Kreitmen, and 
+Aguadé test, and positive selection favoring amino acid replacements within
+ATP/ADP translocase (ant) was detected using the McDonald-Kreitman test. In
+contrast, test statistics for the control gene, ribosomal protein L12 (rpl),
+which presumably has experienced the same demographic effects as the candidate
+loci, were not significantly different from neutral expectations and could
+readily be explained by demographic effects. Together, these findings demonstrate
+the utility of the candidate gene approach for investigating adaptation at the
+molecular level in a marine invertebrate for which extensive genomic resources
+are not available.
+
+DOI: 10.1371/journal.pone.0099081 
+PMCID: PMC4045945
+PMID: 24896825  [Indexed for MEDLINE]
+
+
+19. Biochim Biophys Acta. 2013 Aug;1832(8):1304-12. doi:
+10.1016/j.bbadis.2013.04.014. Epub 2013 Apr 18.
+
+Mutations in mitochondrial ribosomal protein MRPL12 leads to growth retardation, 
+neurological deterioration and mitochondrial translation deficiency.
+
+Serre V(1), Rozanska A, Beinat M, Chretien D, Boddaert N, Munnich A, Rötig A,
+Chrzanowska-Lightowlers ZM.
+
+Author information: 
+(1)Université Paris Descartes-Sorbonne Paris Cité, Institut Imagine and INSERM
+U781, Hôpital Necker-Enfants Malades, 149 rue de Sèvres, 75015 Paris, France.
+serre@ijm.univ-paris-diderot.fr
+
+Multiple respiratory chain deficiencies represent a common cause of mitochondrial
+diseases and are associated with a wide range of clinical symptoms. We report a
+subject, born to consanguineous parents, with growth retardation and neurological
+deterioration. Multiple respiratory chain deficiency was found in muscle and
+fibroblasts of the subject as well as abnormal assembly of complexes I and IV. A 
+microsatellite genotyping of the family members detected only one region of
+homozygosity on chromosome 17q24.2-q25.3 in which we focused our attention to
+genes involved in mitochondrial translation. We sequenced MRPL12, encoding the
+mitochondrial ribosomal protein L12 and identified a c.542C>T transition in exon 
+5 changing a highly conserved alanine into a valine (p.Ala181Val). This mutation 
+resulted in a decreased steady-state level of MRPL12 protein, with altered
+integration into the large ribosomal subunit. Moreover, an overall mitochondrial 
+translation defect was observed in the subject's fibroblasts with a significant
+reduction of synthesis of COXI, COXII and COXIII subunits. Modeling of MRPL12
+shows Ala181 positioned in a helix potentially involved in an interface of
+interaction suggesting that the p.Ala181Val change might be predicted to alter
+interactions with the elongation factors. These results contrast with the
+eubacterial orthologues of human MRPL12, where L7/L12 proteins do not appear to
+have a selective effect on translation. Therefore, analysis of the mutated
+version found in the subject presented here suggests that the mammalian protein
+does not function in an entirely analogous manner to the eubacterial L7/L12
+equivalent.
+
+Copyright © 2013 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2013.04.014 
+PMCID: PMC3787750
+PMID: 23603806  [Indexed for MEDLINE]
+
+
+20. PLoS Genet. 2012;8(10):e1003006. doi: 10.1371/journal.pgen.1003006. Epub 2012 Oct
+11.
+
+New partners in regulation of gene expression: the enhancer of Trithorax and
+Polycomb Corto interacts with methylated ribosomal protein l12 via its
+chromodomain.
+
+Coléno-Costes A(1), Jang SM, de Vanssay A, Rougeot J, Bouceba T, Randsholt NB,
+Gibert JM, Le Crom S, Mouchel-Vielh E, Bloyer S, Peronnet F.
+
+Author information: 
+(1)Université Pierre et Marie Curie-Paris 6, UMR7622, Laboratoire de Biologie du 
+Développement, Equipe Chromatine et Développement, Paris, France.
+
+Chromodomains are found in many regulators of chromatin structure, and most of
+them recognize methylated lysines on histones. Here, we investigate the role of
+the Drosophila melanogaster protein Corto's chromodomain. The Enhancer of
+Trithorax and Polycomb Corto is involved in both silencing and activation of gene
+expression. Over-expression of the Corto chromodomain (CortoCD) in transgenic
+flies shows that it is a chromatin-targeting module, critical for Corto function.
+Unexpectedly, mass spectrometry analysis reveals that polypeptides pulled down by
+CortoCD from nuclear extracts correspond to ribosomal proteins. Furthermore,
+real-time interaction analyses demonstrate that CortoCD binds with high affinity 
+RPL12 tri-methylated on lysine 3. Corto and RPL12 co-localize with active
+epigenetic marks on polytene chromosomes, suggesting that both are involved in
+fine-tuning transcription of genes in open chromatin. RNA-seq based
+transcriptomes of wing imaginal discs over-expressing either CortoCD or RPL12
+reveal that both factors deregulate large sets of common genes, which are
+enriched in heat-response and ribosomal protein genes, suggesting that they could
+be implicated in dynamic coordination of ribosome biogenesis. Chromatin
+immunoprecipitation experiments show that Corto and RPL12 bind hsp70 and are
+similarly recruited on gene body after heat shock. Hence, Corto and RPL12 could
+be involved together in regulation of gene transcription. We discuss whether
+pseudo-ribosomal complexes composed of various ribosomal proteins might
+participate in regulation of gene expression in connection with chromatin
+regulators.
+
+DOI: 10.1371/journal.pgen.1003006 
+PMCID: PMC3469418
+PMID: 23071455  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+21. Proc Natl Acad Sci U S A. 2012 Oct 23;109(43):17412-7. doi:
+10.1073/pnas.1110271109. Epub 2012 Oct 8.
+
+Identification of antituberculosis agents that target ribosomal protein
+interactions using a yeast two-hybrid system.
+
+Lin Y(1), Li Y, Zhu Y, Zhang J, Li Y, Liu X, Jiang W, Yu S, You XF, Xiao C, Hong 
+B, Wang Y, Jiang JD, Si S.
+
+Author information: 
+(1)Key Laboratory of Biotechnology of Antibiotics of Ministry of Health,
+Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and
+Peking Union Medical College, Beijing 100050, China.
+
+Mycobacterium tuberculosis kills about 2 million people annually and antibiotic
+resistance is a cause of increased mortality. Therefore, development of new
+antituberculosis drugs is urgent for the control of widespread tuberculosis
+infections. For this purpose, we performed an innovative screen to identify new
+agents that disrupt the function of ribosomes in M. tuberculosis. Two bacterial
+ribosomal proteins L12 and L10 interact with each other and constitute the stalk 
+of the 50S ribosomal subunit, which recruits initiation and elongation factors
+(EFs) during translation. Therefore, the L12-L10 interaction should be essential 
+for ribosomal function and protein synthesis. We established a yeast two-hybrid
+system to identify small molecules that block the interaction between L12 and L10
+proteins from M. tuberculosis. Using this system, we identified two compounds
+T766 and T054 that show strong bactericidal activity against tuberculosis but
+with low toxicity to mice and other bacterial strains. Moreover, using surface
+plasmon resonance (SPR) assay, we have demonstrated that these compounds bind
+specifically to L12 to disrupt L12-L10 interaction. Overproduction of L12
+protein, but not L10, lowers the antibacterial activity of T766 and T054,
+indicating that the ribosome is likely the cellular target. Therefore, our data
+demonstrate that this yeast two-hybrid system is a useful tool to identify unique
+antituberculosis agents targeting the ribosomal protein L12-L10 interaction.
+
+DOI: 10.1073/pnas.1110271109 
+PMCID: PMC3491523
+PMID: 23045703  [Indexed for MEDLINE]
+
+
+22. Nucleic Acids Res. 2012 Nov;40(21):10851-65. doi: 10.1093/nar/gks833. Epub 2012
+Sep 10.
+
+Common chaperone activity in the G-domain of trGTPase protects L11-L12
+interaction on the ribosome.
+
+Zhang D(1), Liu G, Xue J, Lou J, Nierhaus KH, Gong W, Qin Y.
+
+Author information: 
+(1)Laboratory of Noncoding RNA, Institute of Biophysics, Chinese Academy of
+Sciences, 15 Datun Road, Beijing 100101, China.
+
+Translational GTPases (trGTPases) regulate all phases of protein synthesis. An
+early event in the interaction of a trGTPase with the ribosome is the contact of 
+the G-domain with the C-terminal domain (CTD) of ribosomal protein L12 (L12-CTD) 
+and subsequently interacts with the N-terminal domain of L11 (L11-NTD). However, 
+the structural and functional relationships between L12-CTD and L11-NTD remain
+unclear. Here, we performed mutagenesis, biochemical and structural studies to
+identify the interactions between L11-NTD and L12-CTD. Mutagenesis of conserved
+residues in the interaction site revealed their role in the docking of trGTPases.
+During docking, loop62 of L11-NTD protrudes into a cleft in L12-CTD, leading to
+an open conformation of this domain and exposure of hydrophobic core. This
+unfavorable situation for L12-CTD stability is resolved by a chaperone-like
+activity of the contacting G-domain. Our results suggest that all
+trGTPases-regardless of their different specific functions-use a common mechanism
+for stabilizing the L11-NTD•L12-CTD interactions.
+
+DOI: 10.1093/nar/gks833 
+PMCID: PMC3505967
+PMID: 22965132  [Indexed for MEDLINE]
+
+
+23. World J Gastroenterol. 2012 Mar 21;18(11):1216-28. doi: 10.3748/wjg.v18.i11.1216.
+
+Proteomic analysis of gastric cancer and immunoblot validation of potential
+biomarkers.
+
+Kočevar N(1), Odreman F, Vindigni A, Grazio SF, Komel R.
+
+Author information: 
+(1)Medical Centre for Molecular Biology, Institute of Biochemistry, Faculty of
+Medicine, University of Ljubljana, Ljubljana 1000, Slovenia.
+
+AIM: To search for and validate differentially expressed proteins in patients
+with gastric adenocarcinoma.
+METHODS: We used two-dimensional gel electrophoresis and mass spectrometry to
+search for differentially expressed proteins in patients with gastric
+adenocarcinoma. A set of proteins was validated with immunoblotting.
+RESULTS: We identified 30 different proteins involved in various biological
+processes: metabolism, development, death, response to stress, cell cycle, cell
+communication, transport, and cell motility. Eight proteins were chosen for
+further validation by immunoblotting. Our results show that gastrokine-1, 39S
+ribosomal protein L12 (mitochondrial precursor), plasma cell-induced resident
+endoplasmic reticulum protein, and glutathione S-transferase mu 3 were
+significantly underexpressed in gastric adenocarcinoma relative to adjacent
+non-tumor tissue samples. On the other hand, septin-2, ubiquitin-conjugating
+enzyme E2 N, and transaldolase were significantly overexpressed. Translationally 
+controlled tumor protein was shown to be differentially expressed only in
+patients with cancer of the gastric cardia/esophageal border.
+CONCLUSION: This work presents a set of possible diagnostic biomarkers, validated
+for the first time. It might contribute to the efforts of understanding gastric
+cancer carcinogenesis.
+
+DOI: 10.3748/wjg.v18.i11.1216 
+PMCID: PMC3309911
+PMID: 22468085  [Indexed for MEDLINE]
+
+
+24. Proc Natl Acad Sci U S A. 2011 Nov 1;108(44):17921-6. doi:
+10.1073/pnas.1108852108. Epub 2011 Oct 14.
+
+Mitochondrial ribosomal protein L12 selectively associates with human
+mitochondrial RNA polymerase to activate transcription.
+
+Surovtseva YV(1), Shutt TE, Cotney J, Cimen H, Chen SY, Koc EC, Shadel GS.
+
+Author information: 
+(1)Department of Pathology, Yale University School of Medicine, New Haven, CT
+06520, USA.
+
+Basal transcription of human mitochondrial DNA (mtDNA) in vitro requires the
+single-subunit, bacteriophage-related RNA polymerase, POLRMT, and transcription
+factor h-mtTFB2. This two-component system is activated differentially at mtDNA
+promoters by human mitochondrial transcription factor A (h-mtTFA). Mitochondrial 
+ribosomal protein L7/L12 (MRPL12) binds directly to POLRMT, but whether it does
+so in the context of the ribosome or as a "free" protein in the matrix is
+unknown. Furthermore, existing evidence that MRPL12 activates mitochondrial
+transcription derives from overexpression studies in cultured cells and
+transcription experiments using crude mitochondrial lysates, precluding direct
+effects of MRPL12 on transcription to be assigned. Here, we report that depletion
+of MRPL12 from HeLa cells by shRNA results in decreased steady-state levels of
+mitochondrial transcripts, which are not accounted for by changes in RNA
+stability. We also show that a significant "free" pool of MRPL12 exists in human 
+mitochondria not associated with ribosomes. "Free" MRPL12 binds selectively to
+POLRMT in vivo in a complex distinct from those containing h-mtTFB2. Finally,
+using a fully recombinant mitochondrial transcription system, we demonstrate that
+MRPL12 stimulates promoter-dependent and promoter-independent transcription
+directly in vitro. Based on these results, we propose that, when not associated
+with ribosomes, MRPL12 has a second function in transcription, perhaps acting to 
+facilitate the transition from initiation to elongation. We speculate that this
+is one mechanism to coordinate mitochondrial ribosome biogenesis and
+transcription in human mitochondria, where transcription of rRNAs from the mtDNA 
+presumably needs to be adjusted in accordance with the rate of import and
+assembly of the nucleus-encoded MRPs into ribosomes.
+
+DOI: 10.1073/pnas.1108852108 
+PMCID: PMC3207702
+PMID: 22003127  [Indexed for MEDLINE]
+
+
+25. Yeast. 2011 Jun;28(6):481-93. doi: 10.1002/yea.1852. Epub 2011 Apr 6.
+
+Rpl12p affects the transcription of the PHO pathway high-affinity inorganic
+phosphate transporters and repressible phosphatases.
+
+Tu WY(1), Huang YC, Liu LF, Chang LH, Tam MF.
+
+Author information: 
+(1)Institute of Molecular Biology, Academia Sinica, Taiwan, Republic of China.
+
+The ribosomal protein Rpl12p of Saccharomyces cerevisiae is encoded by duplicated
+genes, RPL12A and RPL12B. The gene products possess an identical amino acid
+sequence. Yeast strain 6EA1, which lacks both genes, is viable but exhibits a
+very slow-growth phenotype. In this study, 6EA1 cells were transformed with
+plasmids carrying either RPL12A or RPL12B, and the transcriptional profiles of
+wild-type W303, 6EA1 and the transformed cells grown in synthetic complete medium
+were examined by microarray analysis. Transcription of PHO84, a gene encoding a
+high-affinity phosphate transporter, was drastically suppressed in 6EA1. PHO84
+expression is induced under phosphate-limiting conditions. Therefore, cells were 
+grown in low-phosphate medium and transcripts encoding the PHO pathway proteins
+were quantified by qRT-PCR. The high-affinity phosphate transporters and
+repressible phosphatases were suppressed, while PHO4, a PHO pathway transcription
+activator, was upregulated in 6EA1. Accordingly, phosphate transport and acidic
+phosphatase activities were significantly decreased in 6EA1. Addition of RPL12A
+or RPL12B to 6EA1 largely lessens these effects. We postulate that RPL12 has an
+extra-ribosomal function in modulating the transcription of genes that need Pho4p
+activation.
+
+Copyright © 2011 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/yea.1852 
+PMID: 21469193  [Indexed for MEDLINE]
+
+
+26. Am J Physiol Gastrointest Liver Physiol. 2011 May;300(5):G815-22. doi:
+10.1152/ajpgi.00108.2010. Epub 2011 Feb 24.
+
+Chronic ethanol feeding causes depression of mitochondrial elongation factor Tu
+in the rat liver: implications for the mitochondrial ribosome.
+
+Weiser B(1), Gonye G, Sykora P, Crumm S, Cahill A.
+
+Author information: 
+(1)Dept. of Pathology, Anatomy and Cell Biology, Thomas Jefferson Univ.,
+Philadelphia, PA 19107, USA.
+
+Chronic ethanol feeding is known to negatively impact hepatic energy metabolism. 
+Previous studies have indicated that the underlying lesion responsible for this
+may lie at the level of the mitoribosome. The aim of this study was to
+characterize the structure of the hepatic mitoribosome in alcoholic male rats and
+their isocalorically paired controls. Our experiments revealed that chronic
+ethanol feeding resulted in a significant depletion of both structural
+(death-associated protein 3) and functional [elongation factor thermo unstable
+(EF-Tu)] mitoribosomal proteins. In addition, significant increases were found in
+nucleotide elongation factor thermo stable (EF-Ts) and structural mitochondrial
+ribosomal protein L12 (MRPL12). The increase in MRPL12 was found to correlate
+with an increase in the levels of the 39S large mitoribosomal subunit. These
+changes were accompanied by decreased levels of nuclear- and mitochondrially
+encoded respiratory subunits, decreased amounts of intact respiratory complexes, 
+decreased hepatic ATP levels, and depressed mitochondrial translation.
+Mathematical modeling of ethanol-mediated changes in EF-Tu and EF-Ts using
+prederived kinetic data predicted that the ethanol-mediated decrease in EF-Tu
+levels could completely account for the impaired mitochondrial protein synthesis.
+In conclusion, chronic ethanol feeding results in a depletion of mitochondrial
+EF-Tu levels within the liver that is mathematically predicted to be responsible 
+for the impaired mitochondrial protein synthesis seen in alcoholic animals.
+
+DOI: 10.1152/ajpgi.00108.2010 
+PMCID: PMC3094132
+PMID: 21350184  [Indexed for MEDLINE]
+
+
+27. PLoS One. 2010 Jul 14;5(7):e11575. doi: 10.1371/journal.pone.0011575.
+
+Measurement of the rates of synthesis of three components of ribosomes of
+Mycobacterium fortuitum: a theoretical approach to qRT-PCR experimentation.
+
+Garcia MJ(1), Nuñez MC, Cox RA.
+
+Author information: 
+(1)Departamento de Medicina Preventiva, Facultad de Medicina, Universidad
+Autónoma, Madrid, Spain.
+
+BACKGROUND: Except for the ribosomal protein L12 (rplL), ribosomal proteins are
+present as one copy per ribosome; L12 (rplL) is unusual because it is present as 
+four copies per ribosome. Thus, the strategies used by Mycobacterium fortuitum to
+regulate ribosomal protein synthesis were investigated, including evaluations of 
+the rates of chain elongations of 16S rRNA, rplL and ribosomal protein S12
+(rpsL).
+METHODOLOGY: RNA was isolated from cell cultures and cDNA was prepared. The
+numbers of cDNA copies of 16S rRNA, precursor-16S rRNA and transcripts of rpsL
+and rplL were quantified by qRT-PCR and then related to the rates of 16S rRNA,
+rpsL and rplL chain elongations by means of a mathematical framework for coupled 
+transcription/translation.
+PRINCIPAL FINDINGS: The rates of synthesis of 16S rRNA, rpsL and rplL
+respectively were found to be approximately 50 x 10(3) nucleotides h(-1), 1.6 x
+10(3) amino acid residues h(-1) and 3.4 x 10(3) amino acid residues h(-1). The
+number of transcripts of rplL was approximately twice that of rpsL. These data
+account for the presence of one copy of rpsL and four copies of rplL per
+ribosome, and reveal that the rate of M. fortuitum ribosome synthesis was closer 
+to that of M. tuberculosis than to E. coli. Except for rplJ, the elongation rate 
+obtained for rpsL was inferred to be appropriate for all other proteins present
+as one copy per ribosome.
+SIGNIFICANCE: The results obtained provide the basis for a comprehensive view of 
+the kinetics of ribosome synthesis, and of the ways that bacterial cells utilize 
+genes encoding ribosomal proteins. The methodology also applies to proteins
+involved in transcription, energy generation and to bacterial proteins in
+general. The method proposed for measuring the fidelity of cDNA preparations is
+intrinsically much more sensitive than procedures that measure the integrity of
+16S rRNA.
+
+DOI: 10.1371/journal.pone.0011575 
+PMCID: PMC2904383
+PMID: 20644643  [Indexed for MEDLINE]
+
+
+28. Biophys J. 2010 May 19;98(10):2374-82. doi: 10.1016/j.bpj.2010.02.012.
+
+Structure and Dynamics of Ribosomal Protein L12: An Ensemble Model Based on SAXS 
+and NMR Relaxation.
+
+Bernadó P(1), Modig K, Grela P, Svergun DI, Tchorzewski M, Pons M, Akke M.
+
+Author information: 
+(1)Institute for Research in Biomedicine, Barcelona, Spain.
+pau.bernado@irbbarcelona.org
+
+Ribosomal protein L12 is a two-domain protein that forms dimers mediated by its
+N-terminal domains. A 20-residue linker separates the N- and C-terminal domains. 
+This linker results in a three-lobe topology with significant flexibility, known 
+to be critical for efficient translation. Here we present an ensemble model of
+spatial distributions and correlation times for the domain reorientations of L12 
+that reconciles experimental data from small-angle x-ray scattering and nuclear
+magnetic resonance. We generated an ensemble of L12 conformations in which the
+structure of each domain is fixed but the domain orientations are variable. The
+ensemble reproduces the small-angle x-ray scattering data and the optimized
+correlation times of its reorientational eigenmodes fit the (15)N relaxation
+data. The ensemble model reveals intrinsic conformational properties of L12 that 
+help explain its function on the ribosome. The two C-terminal domains sample a
+large volume and extend further away from the ribosome anchor than expected for a
+random-chain linker, indicating that the flexible linker has residual order.
+Furthermore, the distances between each C-terminal domain and the anchor are
+anticorrelated, indicating that one of them is more retracted on average. We
+speculate that these properties promote the function of L12 to recruit
+translation factors and control their activity on the ribosome.
+
+Copyright 2010 Biophysical Society. Published by Elsevier Inc. All rights
+reserved.
+
+DOI: 10.1016/j.bpj.2010.02.012 
+PMCID: PMC2872255
+PMID: 20483347  [Indexed for MEDLINE]
+
+
+29. Am J Hum Genet. 2010 Feb 12;86(2):222-8. doi: 10.1016/j.ajhg.2009.12.015. Epub
+2010 Jan 28.
+
+Ribosomal protein genes RPS10 and RPS26 are commonly mutated in Diamond-Blackfan 
+anemia.
+
+Doherty L(1), Sheen MR, Vlachos A, Choesmel V, O'Donohue MF, Clinton C, Schneider
+HE, Sieff CA, Newburger PE, Ball SE, Niewiadomska E, Matysiak M, Glader B, Arceci
+RJ, Farrar JE, Atsidaftos E, Lipton JM, Gleizes PE, Gazda HT.
+
+Author information: 
+(1)Division of Genetics and Program in Genomics, The Manton Center for Orphan
+Disease Research, Children's Hospital Boston, Boston, MA 02115, USA.
+
+Erratum in
+    Am J Hum Genet. 2010 Apr 9;86(4):655.
+
+Diamond-Blackfan anemia (DBA), an inherited bone marrow failure syndrome
+characterized by anemia that usually presents before the first birthday or in
+early childhood, is associated with birth defects and an increased risk of
+cancer. Although anemia is the most prominent feature of DBA, the disease is also
+characterized by growth retardation and congenital malformations, in particular
+craniofacial, upper limb, heart, and urinary system defects that are present in
+approximately 30%-50% of patients. DBA has been associated with mutations in
+seven ribosomal protein (RP) genes, RPS19, RPS24, RPS17, RPL35A, RPL5, RPL11, and
+RPS7, in about 43% of patients. To continue our large-scale screen of RP genes in
+a DBA population, we sequenced 35 ribosomal protein genes, RPL15, RPL24, RPL29,
+RPL32, RPL34, RPL9, RPL37, RPS14, RPS23, RPL10A, RPS10, RPS12, RPS18, RPL30,
+RPS20, RPL12, RPL7A, RPS6, RPL27A, RPLP2, RPS25, RPS3, RPL41, RPL6, RPLP0, RPS26,
+RPL21, RPL36AL, RPS29, RPL4, RPLP1, RPL13, RPS15A, RPS2, and RPL38, in our DBA
+patient cohort of 117 probands. We identified three distinct mutations of RPS10
+in five probands and nine distinct mutations of RPS26 in 12 probands. Pre-rRNA
+analysis in lymphoblastoid cells from patients bearing mutations in RPS10 and
+RPS26 showed elevated levels of 18S-E pre-rRNA. This accumulation is consistent
+with the phenotype observed in HeLa cells after knockdown of RPS10 or RPS26
+expression with siRNAs, which indicates that mutations in the RPS10 and RPS26
+genes in DBA patients affect the function of the proteins in rRNA processing.
+
+Copyright (c) 2010 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2009.12.015 
+PMCID: PMC2820177
+PMID: 20116044  [Indexed for MEDLINE]
+
+
+30. Mol Phylogenet Evol. 2010 Mar;54(3):922-32. doi: 10.1016/j.ympev.2009.11.015.
+Epub 2009 Nov 24.
+
+Silene patula (Siphonomorpha, Caryophyllaceae) in North Africa: a test of
+colonisation routes using chloroplast markers.
+
+Naciri Y(1), Cavat F, Jeanmonod D.
+
+Author information: 
+(1)Unité de Phylogénie et de Génétique Moléculaires, Conservatoire et Jardin
+Botaniques, Chemin de l'Impératrice, 1, Case Postale 60, 1292 Chambésy, Geneva,
+Switzerland. yamama.naciri@ville-ge.ch
+
+Based on morphological characters, the North African Silene patula has been
+divided into two subspecies, ssp. patula found North of Kabylies and Atlas
+Mountains, and ssp. amurensis found south of these regions. In order to test the 
+hypothesis that S. patula could have derived from S. italica through the Sicilian
+Channel during the Messinian, we sequenced three chloroplast loci, trnH-psbA,
+trnS-trnG and rpl12-rps20. Fifteen haplotypes were found on 211 herbarium
+specimens, associated with a huge differentiation within species. The hypothesis 
+that S. patula had independently evolved as two different subspecies North and
+South of the mountains is refuted and a morphological adaptation to different
+pollinators is suggested to explain the differences between the two taxa. The
+Kabylies-Numidie-Kroumirie gathers a large proportion of haplotypes, which points
+to this region as a probable refugium or place of origin from which spatial
+expansions have subsequently occurred towards Morocco and the Aurès Mountains.
+
+Copyright 2009 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ympev.2009.11.015 
+PMID: 19941964  [Indexed for MEDLINE]
+
+
+31. J Cell Biol. 2009 Sep 21;186(6):849-62. doi: 10.1083/jcb.200904110.
+
+Ribosome stalk assembly requires the dual-specificity phosphatase Yvh1 for the
+exchange of Mrt4 with P0.
+
+Lo KY(1), Li Z, Wang F, Marcotte EM, Johnson AW.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, Section of Molecular Genetics and
+Microbiology, The Institute for Cellular and Molecular Biology, University of
+Texas at Austin, Austin, TX 78712, USA.
+
+The ribosome stalk is essential for recruitment of translation factors. In yeast,
+P0 and Rpl12 correspond to bacterial L10 and L11 and form the stalk base of
+mature ribosomes, whereas Mrt4 is a nuclear paralogue of P0. In this study, we
+show that the dual-specificity phosphatase Yvh1 is required for the release of
+Mrt4 from the pre-60S subunits. Deletion of YVH1 leads to the persistence of Mrt4
+on pre-60S subunits in the cytoplasm. A mutation in Mrt4 at the protein-RNA
+interface bypasses the requirement for Yvh1. Pre-60S subunits associated with
+Yvh1 contain Rpl12 but lack both Mrt4 and P0. These results suggest a linear
+series of events in which Yvh1 binds to the pre-60S subunit to displace Mrt4.
+Subsequently, P0 loads onto the subunit to assemble the mature stalk, and Yvh1 is
+released. The initial assembly of the ribosome with Mrt4 may provide functional
+compartmentalization of ribosome assembly in addition to the spatial separation
+afforded by the nuclear envelope.
+
+DOI: 10.1083/jcb.200904110 
+PMCID: PMC2753163
+PMID: 19797078  [Indexed for MEDLINE]
+
+
+32. PLoS One. 2009 Sep 15;4(9):e7033. doi: 10.1371/journal.pone.0007033.
+
+Oxygen consumption can regulate the growth of tumors, a new perspective on the
+Warburg effect.
+
+Chen Y(1), Cairns R, Papandreou I, Koong A, Denko NC.
+
+Author information: 
+(1)Division of Radiation and Cancer Biology, Department of Radiation Oncology,
+Stanford University School of Medicine, Stanford, California, USA.
+
+BACKGROUND: The unique metabolism of tumors was described many years ago by Otto 
+Warburg, who identified tumor cells with increased glycolysis and decreased
+mitochondrial activity. However, "aerobic glycolysis" generates fewer ATP per
+glucose molecule than mitochondrial oxidative phosphorylation, so in terms of
+energy production, it is unclear how increasing a less efficient process provides
+tumors with a growth advantage.
+METHODS/FINDINGS: We carried out a screen for loss of genetic elements in
+pancreatic tumor cells that accelerated their growth as tumors, and identified
+mitochondrial ribosomal protein L28 (MRPL28). Knockdown of MRPL28 in these cells 
+decreased mitochondrial activity, and increased glycolysis, but paradoxically,
+decreased cellular growth in vitro. Following Warburg's observations, this
+mutation causes decreased mitochondrial function, compensatory increase in
+glycolysis and accelerated growth in vivo. Likewise, knockdown of either
+mitochondrial ribosomal protein L12 (MRPL12) or cytochrome oxidase had a similar 
+effect. Conversely, expression of the mitochondrial uncoupling protein 1 (UCP1)
+increased oxygen consumption and decreased tumor growth. Finally, treatment of
+tumor bearing animals with dichloroacetate (DCA) increased pyruvate consumption
+in the mitochondria, increased total oxygen consumption, increased tumor hypoxia 
+and slowed tumor growth.
+CONCLUSIONS: We interpret these findings to show that non-oncogenic genetic
+changes that alter mitochondrial metabolism can regulate tumor growth through
+modulation of the consumption of oxygen, which appears to be a rate limiting
+substrate for tumor proliferation.
+
+DOI: 10.1371/journal.pone.0007033 
+PMCID: PMC2737639
+PMID: 19753307  [Indexed for MEDLINE]
+
+
+33. Proteomics. 2009 May;9(10):2809-19. doi: 10.1002/pmic.200800192.
+
+Identification of elicitor-responsive proteins in rice leaves by a proteomic
+approach.
+
+Liao M(1), Li Y, Wang Z.
+
+Author information: 
+(1)Laboratory of Physiological Plant Pathology, South China Agricultural
+University, Guangzhou, P. R. China.
+
+Experiments were conducted to identify the differentially expressed proteins in
+rice (Oryza sativa L.) plants after treatment with the glycoprotein elicitor CSB 
+I, purified from ZC(13), a race of the rice blast fungus Magnaporthe grisea. The 
+interactions of two near isogenic lines of rice, C101A51 and CO39, with ZC(13)
+resulted in completely incompatible and compatible types, respectively. Proteins 
+were extracted from rice leaves at 12 and 24 h after treatment with CSB I.
+Temporal changes in total proteins were examined using 2-DE. Among more than 900 
+protein spots reproducibly detected on each gel, 11 were up-regulated, three were
+down-regulated and seven were newly induced during, at a minimum, one time point.
+Twenty-one differentially expressed proteins were identified by linear ion trap
+quadrupole (LTQ)-MS/MS. The identified proteins were classified into six
+categories based on their putative function reported: (i) defense proteins
+(PR-10a, PR-5 and putative salt-induced protein), (ii) signal transduction
+(nucleoside diphosphate kinase and putative profilin), (iii) ROS (Mn-SOD,
+Cu/Zn-SOD, GST and CAT), (iv) programmed cell death (translationally controlled
+tumor protein), (v) molecule biosynthesis (putative ribosomal protein S5,
+putative ribosomal protein L12, putative translational elongation factor Tu and
+putative chaperonin 21 precursor) and (vi) metabolism (putative
+fructose-bisphosphate aldolase class-I, putative malate dehydrogenase,
+cytoplasmic malate dehydrogenase, putative acid phosphatase, putative
+transketolase1 and gamma hydroxybutyrate dehydrogenase-like protein). All of
+these proteins (except Cu/Zn-SOD, putative acid phosphatase and translationally
+controlled tumor protein) were induced faster and to a higher degree in C101A51
+than in CO39. These data suggest that the incompatible rice line may possess a
+more sensitive recognition system that can identify and react to specific
+chemical, biological or physical triggers in a more efficient manner, thus
+eliciting an early and fast defense response.
+
+DOI: 10.1002/pmic.200800192 
+PMID: 19405028  [Indexed for MEDLINE]
+
+
+34. Nucleic Acids Res. 2009 Feb;37(2):e15. doi: 10.1093/nar/gkn992. Epub 2008 Dec 11.
+
+A single-step method for purification of active His-tagged ribosomes from a
+genetically engineered Escherichia coli.
+
+Ederth J(1), Mandava CS, Dasgupta S, Sanyal S.
+
+Author information: 
+(1)Department of Cell and Molecular Biology, Uppsala University, S-751 24
+Uppsala, Sweden.
+
+With the rapid development of the ribosome field in recent years a quick, simple 
+and high-throughput method for purification of the bacterial ribosome is in
+demand. We have designed a new strain of Escherichia coli (JE28) by an in-frame
+fusion of a nucleotide sequence encoding a hexa-histidine affinity tag at the
+3'-end of the single copy rplL gene (encoding the ribosomal protein L12) at the
+chromosomal site of the wild-type strain MG1655. As a result, JE28 produces a
+homogeneous population of ribosomes (His)(6)-tagged at the C-termini of all four 
+L12 proteins. Furthermore, we have developed a single-step, high-throughput
+method for purification of tetra-(His)(6)-tagged 70S ribosomes from this strain
+using affinity chromatography. These ribosomes, when compared with the
+conventionally purified ones in sucrose gradient centrifugation, 2D-gel,
+dipeptide formation and a full-length protein synthesis assay showed higher yield
+and activity. We further describe how this method can be adapted for purification
+of ribosomal subunits and mutant ribosomes. These methodologies could, in
+principle, also be used to purify any functional multimeric complex from the
+bacterial cell.
+
+DOI: 10.1093/nar/gkn992 
+PMCID: PMC2632923
+PMID: 19074194  [Indexed for MEDLINE]
+
+
+35. Eukaryot Cell. 2008 May;7(5):836-47. doi: 10.1128/EC.00070-08. Epub 2008 Apr 4.
+
+Genomewide location analysis of Candida albicans Upc2p, a regulator of sterol
+metabolism and azole drug resistance.
+
+Znaidi S(1), Weber S, Al-Abdin OZ, Bomme P, Saidane S, Drouin S, Lemieux S, De
+Deken X, Robert F, Raymond M.
+
+Author information: 
+(1)Institute for Research in Immunology and Cancer, Université de Montréal,
+Montreal, Québec, Canada.
+
+Upc2p, a transcription factor of the zinc cluster family, is an important
+regulator of sterol biosynthesis and azole drug resistance in Candida albicans.
+To better understand Upc2p function in C. albicans, we used genomewide location
+profiling to identify the transcriptional targets of Upc2p in vivo. A triple
+hemagglutinin epitope, introduced at the C terminus of Upc2p, conferred a
+gain-of-function effect on the fusion protein. Location profiling identified 202 
+bound promoters (P < 0.05). Overrepresented functional groups of genes whose
+promoters were bound by Upc2p included 12 genes involved in ergosterol
+biosynthesis (NCP1, ERG11, ERG2, and others), 18 genes encoding ribosomal
+subunits (RPS30, RPL32, RPL12, and others), 3 genes encoding drug transporters
+(CDR1, MDR1, and YOR1), 4 genes encoding transcription factors (INO2, ACE2, SUT1,
+and UPC2), and 6 genes involved in sulfur amino acid metabolism (MET6, SAM2,
+SAH1, and others). Bioinformatic analyses suggested that Upc2p binds to the DNA
+motif 5'-VNCGBDTR that includes the previously characterized Upc2p binding site
+5'-TCGTATA. Northern blot analysis showed that increased binding correlates with 
+increased expression for the analyzed Upc2p targets (ERG11, MDR1, CDR1, YOR1,
+SUT1, SMF12, and CBP1). The analysis of ERG11, MDR1, and CDR1 transcripts in
+wild-type and upc2Delta/upc2Delta strains grown under Upc2p-activating conditions
+(lovastatin treatment and hypoxia) showed that Upc2p regulates its targets in a
+complex manner, acting as an activator or as a repressor depending upon the
+target and the activating condition. Taken together, our results indicate that
+Upc2p is a key regulator of ergosterol metabolism. They also suggest that Upc2p
+may contribute to azole resistance by regulating the expression of drug efflux
+pump-encoding genes in addition to ergosterol biosynthesis genes.
+
+DOI: 10.1128/EC.00070-08 
+PMCID: PMC2394978
+PMID: 18390649  [Indexed for MEDLINE]
+
+
+36. FEMS Yeast Res. 2008 May;8(3):351-61. doi: 10.1111/j.1567-1364.2007.00343.x. Epub
+2008 Jan 30.
+
+A yeast-based genetic screening to identify human proteins that increase
+homologous recombination.
+
+Collavoli A(1), Comelli L, Rainaldi G, Galli A.
+
+Author information: 
+(1)Laboratorio di Terapia Genica e Molecolare, Istituto di Fisiologia Clinica
+CNR, Area della Ricerca CNR Pisa, Italy.
+
+To identify new human proteins implicated in homologous recombination (HR), we
+set up 'a papillae assay' to screen a human cDNA library using the RS112 strain
+of Saccharomyces cerevisiae containing an intrachromosomal recombination
+substrate. We isolated 23 cDNAs, 11 coding for complete proteins and 12 for
+partially deleted proteins that increased HR when overexpressed in yeast. We
+characterized the effect induced by the overexpression of the complete human
+proteasome subunit beta 2, the partially deleted proteasome subunits alpha 3 and 
+beta 8, the ribosomal protein L12, the brain abundant membrane signal protein
+(BASP1) and the human homologue to v-Ha-RAS (HRAS), which elevated HR by
+2-6.5-fold over the control. We found that deletion of the RAD52 gene, which has 
+a key role in most HR events, abolished the increase of HR induced by the
+proteasome subunits and HRAS; by contrast, the RAD52 deletion did not affect the 
+high level of HR due to BASP1 and RPL12. This suggests that the proteins
+stimulated yeast HR via different mechanisms. Overexpression of the complete beta
+2 human proteasome subunit or the partially deleted alpha 3 and beta 8 subunits
+increased methyl methanesulphonate (MMS) resistance much more in the rad52 Delta 
+mutant than in the wild-type. Overexpression of RPL12 and BASP1 did not affect
+MMS resistance in both the wild-type and the rad52 Delta mutant, whereas HRAS
+decreased MMS resistance in the rad52 Delta mutant. The results indicate that
+these proteins may interfere with the pathway(s) involved in the repair of
+MMS-induced DNA damage. Finally, we provide further evidence that yeast is a
+helpful tool to identify human proteins that may have a regulatory role in HR.
+
+DOI: 10.1111/j.1567-1364.2007.00343.x 
+PMID: 18248415  [Indexed for MEDLINE]
+
+
+37. J Biol Chem. 2008 Mar 14;283(11):7185-95. doi: 10.1074/jbc.M709429200. Epub 2008 
+Jan 14.
+
+A conserved SET domain methyltransferase, Set11, modifies ribosomal protein Rpl12
+in fission yeast.
+
+Sadaie M(1), Shinmyozu K, Nakayama J.
+
+Author information: 
+(1)Laboratory for Chromatin Dynamics, RIKEN, Kobe, Hyogo 650-0047, Japan.
+
+SET domain-containing methyltransferases post-translationally modify a variety of
+cellular proteins, such as histones, cytochrome c, ribulose-bisphosphate
+carboxylase/oxygenase, and ribosomal proteins. In the fission yeast
+Schizosaccharomyces pombe, at least 13 SET domain-containing proteins have been
+identified in the genome, four of which are involved in transcriptional
+regulation through their modification of histone tails. However, the roles played
+by the other SET domain proteins in cellular processes and their physiological
+substrates remain unresolved. We show here that S. pombe Set11, a SET
+domain-containing protein encoded by SPCC1223.04c, specifically modifies Rpl12
+(ribosomal protein L12). Recombinant Set11 prepared from Escherichia coli had
+catalytic activity and methylated a 17-kDa polypeptide in cellular extracts of
+set11 mutant cells. The methylated protein was isolated by two-dimensional gel
+electrophoresis or by reverse-phase chromatography and was identified as Rpl12 by
+mass spectrometry. In vitro methylation experiments using wild-type and mutant
+Rpl12 proteins verified that Set11 modified recombinant Rpl12 and suggested that 
+its potential target site was lysine 3. The methylation site modified by Set11
+was also confirmed by mass spectrometric analysis, which also revealed other
+unique methylation sites of Rpl12. Finally, we found that Set11 predominantly
+localized to the nucleolus and that the overproduction of Set11 caused a severe
+growth defect. These results suggest that Rpl12 methylation occurs during the
+ribosomal assembly processes and that control of the Set11 expression level is
+important for its cellular function.
+
+DOI: 10.1074/jbc.M709429200 
+PMID: 18195021  [Indexed for MEDLINE]
+
+
+38. Front Biosci. 2008 Jan 1;13:2203-15.
+
+Involvement of Dcr1 in post-transcriptional regulation of gene expression in
+Schizosaccharomyces pombe.
+
+Gobeil LA(1), Plante P, Rohani M, Ouellette M, Provost P.
+
+Author information: 
+(1)Centre de Recherche en Rhumatologie et Immunologie, Centre de Recherche du
+CHUL-CHUQ, Quebec, QC, G1V 4G2, Canada.
+
+The ribonuclease III Dicer (Dcr1) has been shown to be required for chromosome
+segregation and gene silencing in Schizosaccharomyces pombe. These effects are
+thought to be transcriptional, mediated by formation and maintenance of
+heterochromatin, and guided by small RNAs derived from Dcr1 along a process known
+as RNA interference. In order to get further insights into the gene regulatory
+role of Dcr1, we performed comparative analyses of dcr1 knockout and wild-type
+fission yeast strains. Analysis of part of the soluble proteomes identified eight
+cellular proteins whose expression is under Dcr1 control, three of which are
+integral constituents of the glycolysis pathway. Further correlations with their 
+respective mRNA transcript levels are compatible with the existence of a
+post-transcriptional gene regulatory mechanism involving Dcr1 or a Dcr1 complex. 
+Experiments designed to identify components of Dcr1 complexes unveiled two novel 
+Dcr1 interactors, namely the zinc finger protein Byr3 and the ribosomal protein
+L12. Consistently enriched in Dcr1 immune complexes, Byr3 and L12 may link Dcr1
+to the transcriptional and translational machineries, respectively, and
+contribute to post-transcriptional gene regulation in fission yeast.
+
+
+PMCID: PMC2930013
+PMID: 17981703  [Indexed for MEDLINE]
+
+
+39. J Biochem Biophys Methods. 2008 Apr 24;70(6):985-91. Epub 2007 Sep 5.
+
+Analytical approach for selecting normalizing genes from a cDNA microarray
+platform to be used in q-RT-PCR assays: a cnidarian case study.
+
+Rodriguez-Lanetty M(1), Phillips WS, Dove S, Hoegh-Guldberg O, Weis VM.
+
+Author information: 
+(1)ARC Centre of Excellence for Coral Reef Studies /Centre for Marine Studies,
+University of Queensland, St. Lucia QLD 4072, Australia.
+m.rodriguez-lanetty@uq.edu.au
+
+Research in gene function using Quantitative Reverse Transcription PCR (q-RT-PCR)
+and microarray approaches are emerging and just about to explode in the field of 
+coral and cnidarian biology. These approaches are showing the great potential to 
+significantly advance our understanding of how corals respond to abiotic and
+biotic stresses, and how host cnidarians/dinoflagellates symbioses are maintained
+and regulated. With these genomic advances, however, new analytical challenges
+are also emerging, such as the normalization of gene expression data derived from
+q-RT-PCR. In this study, an effective analytical method is introduced to identify
+candidate housekeeping genes (HKG) from a sea anemone (Anthopleura elegantissima)
+cDNA microarray platform that can be used as internal control genes to normalize 
+q-RT-PCR gene expression data. It is shown that the identified HKGs were stable
+among the experimental conditions tested in this study. The three most stables
+genes identified, in term of gene expression, were beta-actin, ribosomal protein 
+L12, and a Poly(a) binding protein. The applications of these HKGs in other
+cnidarian systems are further discussed.
+
+DOI: 10.1016/j.jbbm.2007.08.005 
+PMID: 17913235  [Indexed for MEDLINE]
+
+
+40. Exp Cell Res. 2007 May 15;313(9):1778-89. Epub 2007 Mar 15.
+
+The arginine methyltransferase Rmt2 is enriched in the nucleus and co-purifies
+with the nuclear porins Nup49, Nup57 and Nup100.
+
+Olsson I(1), Berrez JM, Leipus A, Ostlund C, Mutvei A.
+
+Author information: 
+(1)School of Life Sciences, Södertörns Högskola, SE-141 89 Huddinge, Sweden.
+
+Arginine methylation is a post-translational modification of proteins implicated 
+in RNA processing, protein compartmentalization, signal transduction,
+transcriptional regulation and DNA repair. In a screen for proteins associated
+with the nuclear envelope in the yeast Saccharomyces cerevisiae, we have
+identified the arginine methyltransferase Rmt2, previously shown to methylate the
+ribosomal protein L12. By indirect immunofluorescence and subcellular
+fractionations we demonstrate here that Rmt2 has nuclear and cytoplasmic
+localizations. Biochemical analysis of a fraction enriched in nuclei reveals that
+nuclear Rmt2 is resistant to extractions with salt and detergent, indicating an
+association with structural components. This was supported by affinity
+purification experiments with TAP-tagged Rmt2. Rmt2 was found to co-purify with
+the nucleoporins Nup49, Nup57 and Nup100, revealing a novel link between arginine
+methyltransferases and the nuclear pore complex. In addition, a genome-wide
+transcription study of the rmt2Delta mutant shows significant downregulation of
+the transcription of MYO1, encoding the Type II myosin heavy chain required for
+cytokinesis and cell separation.
+
+DOI: 10.1016/j.yexcr.2007.03.007 
+PMID: 17448464  [Indexed for MEDLINE]
+
+
+41. Biochimie. 2007 May;89(5):658-68. Epub 2007 Feb 20.
+
+Four paralogues of RPL12 are differentially associated to ribosome in plant
+mitochondria.
+
+Delage L(1), Giegé P, Sakamoto M, Maréchal-Drouard L.
+
+Author information: 
+(1)Institut de Biologie Moléculaire des Plantes, Laboratoire Propre du CNRS
+(UPR2357) Conventionné avec l'Université Louis Pasteur, 12 rue du Général Zimmer,
+67084 Strasbourg Cedex, France.
+
+Ribosomal protein L12 is the only component present in four copies in the
+ribosome. In prokaryotes as well as in yeast and human mitochondria, all copies
+correspond to the same RPL12. By contrast, we present here evidence that plant
+mitochondria contain four different RPL12 proteins. Compared to E. coli RPL12,
+the four mature RPL12 variants show a conserved C-terminal region that contains
+all the functional domains of prokaryotic RPL12 but three of them present an
+additional N-terminal extension containing either an acidic or a basic domain and
+a high level of proline residues. All proteins have a potential mitochondrial
+N-terminal targeting sequence and were imported in vitro into isolated
+mitochondria. Using RPL12 antibodies, the four variants were shown to be present 
+in a potato mitochondrial ribosome fraction. Moreover, the four proteins reacted 
+differently to the destabilization of ribosomes. This suggests either a
+heterogeneous RPL12 composition among each ribosome and/or a heterogeneous
+population of plant mitochondrial ribosomes.
+
+DOI: 10.1016/j.biochi.2007.02.002 
+PMID: 17395357  [Indexed for MEDLINE]
+
+
+42. BMC Evol Biol. 2006 Apr 25;6:37.
+
+The complete chloroplast genome sequence of the chlorophycean green alga
+Scenedesmus obliquus reveals a compact gene organization and a biased
+distribution of genes on the two DNA strands.
+
+de Cambiaire JC(1), Otis C, Lemieux C, Turmel M.
+
+Author information: 
+(1)Département de biochimie et de microbiologie, Université Laval, Québec,
+Canada. Jean-Charles.de_Cambiaire@rsvs.ulaval.ca
+
+BACKGROUND: The phylum Chlorophyta contains the majority of the green algae and
+is divided into four classes. While the basal position of the Prasinophyceae is
+well established, the divergence order of the Ulvophyceae, Trebouxiophyceae and
+Chlorophyceae (UTC) remains uncertain. The five complete chloroplast DNA (cpDNA) 
+sequences currently available for representatives of these classes display
+considerable variability in overall structure, gene content, gene density, intron
+content and gene order. Among these genomes, that of the chlorophycean green alga
+Chlamydomonas reinhardtii has retained the least ancestral features. The two
+single-copy regions, which are separated from one another by the large inverted
+repeat (IR), have similar sizes, rather than unequal sizes, and differ radically 
+in both gene contents and gene organizations relative to the single-copy regions 
+of prasinophyte and ulvophyte cpDNAs. To gain insights into the various changes
+that underwent the chloroplast genome during the evolution of chlorophycean green
+algae, we have sequenced the cpDNA of Scenedesmus obliquus, a member of a
+distinct chlorophycean lineage.
+RESULTS: The 161,452 bp IR-containing genome of Scenedesmus features single-copy 
+regions of similar sizes, encodes 96 genes, i.e. only two additional genes (infA 
+and rpl12) relative to its Chlamydomonas homologue and contains seven group I and
+two group II introns. It is clearly more compact than the four UTC algal cpDNAs
+that have been examined so far, displays the lowest proportion of short repeats
+among these algae and shows a stronger bias in clustering of genes on the same
+DNA strand compared to Chlamydomonas cpDNA. Like the latter genome, Scenedesmus
+cpDNA displays only a few ancestral gene clusters. The two chlorophycean genomes 
+share 11 gene clusters that are not found in previously sequenced trebouxiophyte 
+and ulvophyte cpDNAs as well as a few genes that have an unusual structure;
+however, their single-copy regions differ considerably in gene content.
+CONCLUSION: Our results underscore the remarkable plasticity of the chlorophycean
+chloroplast genome. Owing to this plasticity, only a sketchy portrait could be
+drawn for the chloroplast genome of the last common ancestor of Scenedesmus and
+Chlamydomonas.
+
+DOI: 10.1186/1471-2148-6-37 
+PMCID: PMC1513399
+PMID: 16638149  [Indexed for MEDLINE]
+
+
+43. Anal Quant Cytol Histol. 2005 Oct;27(5):263-72.
+
+Proteomic analysis of protein expression in prostate cancer.
+
+Lexander H(1), Palmberg C, Auer G, Hellström M, Franzén B, Jörnvall H, Egevad L.
+
+Author information: 
+(1)Department of Oncology and Pathology, Karolinska Institute, Stockholm, Sweden.
+
+OBJECTIVE: To investigate protein expression in prostate cancer using
+2-dimensional gel electrophoresis (2-DE) and mass spectrometry.
+STUDY DESIGN: Cells were collected from 29 peripheral zone tumors and from benign
+tissue by scraping cut surfaces of radical prostatectomy specimens. Samples were 
+suspended in a medium with protease inhibitors and prepared for 2-DE. Gels were
+analyzed, and protein spots that differed quantitatively between tumor and benign
+tissue were identified via mass spectrometric fingerprinting of tryptic fragments
+and tandem mass spectrometry sequence analysis.
+RESULTS: In total, 63 spots differed between cancer and benign samples (p <
+0.01); 56 were overexpressed (> 1.5 fold) in cancer and 7 underexpressed (< 0.6
+fold). Among overexpressed proteins were transcription factors (nucleoside
+diphosphate kinase 1) and enzymes involved in gene silencing (chromobox protein),
+protein synthesis (39S ribosomal protein L12, BiP protein, protein disulfide
+isomerase), degradation (cytosol aminopeptidase, endopeptidase Clp, inorganic
+pyrophosphatase) and energy metabolism (acyl-CoA dehydrogenase, isocitrate
+dehydrogenase, NADH-ubiquinone oxidoreductase, pyruvate dehydrogenase),
+heat-shock proteins (60 and 70 kd), structural proteins (cytokeratins) and
+membrane proteins (stomatinlike protein 2).
+CONCLUSION: The protein profile of prostate cancer differs from that of benign
+tissue. Several potential target proteins for detection or evaluation of
+prognosis in prostate cancer were identified.
+
+
+PMID: 16447818  [Indexed for MEDLINE]
+
+
+44. Planta. 2006 May;223(6):1315-28. Epub 2005 Dec 7.
+
+Nocturnal changes in leaf growth of Populus deltoides are controlled by
+cytoplasmic growth.
+
+Matsubara S(1), Hurry V, Druart N, Benedict C, Janzik I, Chavarría-Krauser A,
+Walter A, Schurr U.
+
+Author information: 
+(1)Institut for Chemistry and Dynamics of the Geosphere: Phytosphere (ICG-III),
+Research Centre Jülich, 52425 Jülich, Germany. s.matsubara@fz-juelich.de
+
+Growing leaves do not expand at a constant rate but exhibit pronounced diel
+growth rhythms. However, the mechanisms giving rise to distinct diel growth
+dynamics in different species are still largely unknown. As a first step towards 
+identifying genes controlling rate and timing of leaf growth, we analysed the
+transcriptomes of rapidly expanding and fully expanded leaves of Populus
+deltoides Bartr. ex. Marsh at points of high and low expansion at night. Tissues 
+with well defined temporal growth rates were harvested using an online
+growth-monitoring system based on a digital image sequence processing method
+developed for quantitative mapping of dicot leaf growth. Unlike plants studied
+previously, leaf growth in P. deltoides was characterised by lack of a base-tip
+gradient across the lamina, and by maximal and minimal growth at dusk and dawn,
+respectively. Microarray analysis revealed that the nocturnal decline in growth
+coincided with a concerted down-regulation of ribosomal protein genes, indicating
+deceleration of cytoplasmic growth. In a subsequent time-course experiment,
+Northern blotting and real-time RT-PCR confirmed that the ribosomal protein gene 
+RPL12 and a cell-cycle gene H2B were down-regulated after midnight following a
+decrease in cellular carbohydrate concentrations. Thus, we propose that the
+spatio-temporal growth pattern in leaves of P. deltoides primarily arises from
+cytoplasmic growth whose activity increases from afternoon to midnight and
+thereafter decreases in this species.
+
+DOI: 10.1007/s00425-005-0181-0 
+PMID: 16333638  [Indexed for MEDLINE]
+
+
+45. Nucleic Acids Res. 2005 Oct 27;33(18):5965-77. Print 2005.
+
+Alternative splicing and nonsense-mediated mRNA decay regulate mammalian
+ribosomal gene expression.
+
+Cuccurese M(1), Russo G, Russo A, Pietropaolo C.
+
+Author information: 
+(1)Dipartimento di Biochimica e Biotecnologie Mediche, Università Federico II,
+via Sergio Pansini 5, Napoli 80131, Italy.
+
+Messenger RNAs containing premature stop codons are generally targeted for
+degradation through nonsense-mediated mRNA decay (NMD). This mechanism degrades
+aberrant transcripts derived from mutant genes containing nonsense or frameshift 
+mutations. Wild-type genes also give rise to transcripts targeted by NMD. For
+example, some wild-type genes give rise to alternatively spliced transcripts that
+are targeted for decay by NMD. In Caenorhabditis elegans, the ribosomal protein
+(rp) L12 gene generates a nonsense codon-bearing alternatively spliced transcript
+that is induced in an autoregulatory manner by the rpL12 protein. By
+pharmacologically blocking the NMD pathway, we identified alternatively spliced
+mRNA transcripts derived from the human rpL3 and rpL12 genes that are natural
+targets of NMD. The deduced protein sequence of these alternatively spliced
+transcripts suggests that they are unlikely to encode functional ribosomal
+proteins. Overexpression of rpL3 increased the level of the alternatively spliced
+rpL3 mRNA and decreased the normally expressed rpL3. This indicates that rpL3
+regulates its own production by a negative feedback loop and suggests the
+possibility that NMD participates in this regulatory loop by degrading the
+non-functional alternatively spliced transcript.
+
+DOI: 10.1093/nar/gki905 
+PMCID: PMC1270949
+PMID: 16254077  [Indexed for MEDLINE]
+
+
+46. Mol Ecol. 2005 Mar;14(3):793-803.
+
+Phylogeographic analysis of the red seaweed Palmaria palmata reveals a
+Pleistocene marine glacial refugium in the English Channel.
+
+Provan J(1), Wattier RA, Maggs CA.
+
+Author information: 
+(1)School of Biology and Biochemistry, The Queen's University of Belfast, 97
+Lisburn Road, Belfast BT9 7BL, Northern Ireland. J.Provan@qub.ac.uk
+
+Phylogeography has provided a new approach to the analysis of the postglacial
+history of a wide range of taxa but, to date, little is known about the effect of
+glacial periods on the marine biota of Europe. We have utilized a combination of 
+nuclear, plastid and mitochondrial genetic markers to study the biogeographic
+history of the red seaweed Palmaria palmata in the North Atlantic. Analysis of
+the nuclear rDNA operon (ITS1-5.8S-ITS2), the plastid 16S-trnI-trnA-23S-5S,
+rbcL-rbcS and rpl12-rps31-rpl9 regions and the mitochondrial cox2-3 spacer has
+revealed the existence of a previously unidentified marine refugium in the
+English Channel, along with possible secondary refugia off the southwest coast of
+Ireland and in northeast North America and/or Iceland. Coalescent and mismatch
+analyses date the expansion of European populations from approximately 128,000 BP
+and suggest a continued period of exponential growth since then. Consequently, we
+postulate that the penultimate (Saale) glacial maximum was the main event in
+shaping the biogeographic history of European P. palmata populations which
+persisted throughout the last (Weichselian) glacial maximum (c. 20,000 BP) in the
+Hurd Deep, an enigmatic trench in the English Channel.
+
+DOI: 10.1111/j.1365-294X.2005.02447.x 
+PMID: 15723670  [Indexed for MEDLINE]
+
+
+47. J Biochem Mol Biol. 2005 Jan 31;38(1):89-96.
+
+The mutation that makes Escherichia coli resistant to lambda P gene-mediated host
+lethality is located within the DNA initiator Gene dnaA of the bacterium.
+
+Datta I(1), Banik-Maiti S, Adhikari L, Sau S, Das N, Mandal NC.
+
+Author information: 
+(1)Department of Biochemistry, Bose Institute, Acharya J. C. Bose Birth Centenary
+Building, P-1/12, CIT Scheme VII M, Calcutta 700 054, India.
+
+Earlier, we reported that the bacteriophage lambda P gene product is lethal to
+Escherichia coli, and the E. coli rpl mutants are resistant to this lambda P
+gene-mediated lethality. In this paper, we show that under the lambda P
+gene-mediated lethal condition, the host DNA synthesis is inhibited at the
+initiation step. The rpl8 mutation maps around the 83 min position in the E. coli
+chromosome and is 94 % linked with the dnaA gene. The rpl8 mutant gene has been
+cloned in a plasmid. This plasmid clone can protect the wild-type E. coli from
+lambda P gene-mediated killing and complements E. coli dnaAts46 at 42 degrees C. 
+Also, starting with the wild-type dnaA gene in a plasmid, the rpl-like mutations 
+have been isolated by in vitro mutagenesis. DNA sequencing data show that each of
+the rpl8, rpl12 and rpl14 mutations has changed a single base in the dnaA gene,
+which translates into the amino acid changes N313T, Y200N, and S246T respectively
+within the DnaA protein. These results have led us to conclude that the rpl
+mutations, which make E. coli resistant to lambda P gene-mediated host lethality,
+are located within the DNA initiator gene dnaA of the host.
+
+
+PMID: 15715952  [Indexed for MEDLINE]
+
+
+48. Mol Reprod Dev. 2004 Sep;69(1):43-51.
+
+Identification of differentially regulated genes in bovine blastocysts using an
+annealing control primer system.
+
+Hwang KC(1), Cui XS, Park SP, Shin MR, Park SY, Kim EY, Kim NH.
+
+Author information: 
+(1)Department of Animal Science, Chungbuk National University, Cheongju,
+Chungbuk, 361-763 South Korea.
+
+The identification of embryo-specific genes would provide insights into early
+embryonic development. However, the current methods employed to identify the
+genes that are expressed at a specific developmental stage are labor intensive
+and suffer from high rates of false positives. Here we employed a new and
+accurate reverse transcription-polymerase chain reaction (RT-PCR) technology that
+involves annealing control primers (ACPs) to identify the genes that are
+specifically or prominently expressed in bovine early blastocysts and hatched
+blastocysts produced in vitro. Using these techniques, a total of nine expressed 
+sequence tags (ESTs) of genes that were differentially expressed in hatched
+blastocysts, as compared to blastocyst embryos, were cloned and sequenced. The
+cloned genes or ESTs (C1-C9) all exhibited significant sequence similarity with
+known bovine genes (99-100%; FTL, RPS12, LAPTM4a, and RPL12) or ESTs (80-94%;
+AIBP, CULLIN-1, HDLP, COX5a, and RECS1) of other species. As revealed by real
+time RT-PCR, these genes were regulated upstream in the hatched blastocyst stage 
+during early implantation. These results suggest that this new, PCR-based
+differential display RT-PCR technique is a very useful tool for the
+identification of stage-specific genes of preimplantation embryos.
+
+DOI: 10.1002/mrd.20156 
+PMID: 15278903  [Indexed for MEDLINE]
+
+
+49. J Biol Chem. 2002 May 3;277(18):15345-53. Epub 2002 Feb 20.
+
+Yeast ribosomal protein L12 is a substrate of protein-arginine methyltransferase 
+2.
+
+Chern MK(1), Chang KN, Liu LF, Tam TC, Liu YC, Liang YL, Tam MF.
+
+Author information: 
+(1)Institute of Molecular Biology, Academia Sinica, NanKang Taipei, Taiwan 11529,
+Republic of China.
+
+Type III protein-arginine methyltransferase from the yeast Saccharomyces
+cerevisiae (RMT2) was expressed in Escherichia coli and purified to apparent
+homogeneity. The cytosolic, ribosomal, and ribosome salt wash fractions from
+yeast cells lacking RMT2 were used as substrates for the recombinant RMT2. Using 
+S-adenosyl-l-methionine as co-substrate, RMT2 methylated a protein in the
+ribosome salt wash fraction. The same protein in the ribosomal fraction was also 
+methylated by RMT2 after pretreating the sample with endonuclease. Amino acid
+analysis affirmed that the labeling products were delta-N-monomethylarginines.
+The methylated protein from the ribosomal or the ribosome salt wash fraction was 
+isolated by two-dimensional gel electrophoresis and identified as ribosomal
+protein L12 by mass spectrometry. Using synthetic peptides, recombinant L12, and 
+its mutant as substrates, we pinpointed Arg(67) on ribosomal protein L12 as the
+methyl acceptor. L12 was isolated from wild type yeast cells that have been grown
+in the presence of S-adenosyl-l-[methyl-(3)H]methionine and subjected to amino
+acid analysis. The results indicate that L12 contains
+delta-N-monomethylarginines.
+
+DOI: 10.1074/jbc.M111379200 
+PMID: 11856739  [Indexed for MEDLINE]
+
+
+50. Microb Pathog. 2002 Mar;32(3):117-25.
+
+L12 enhances gonococcal transcytosis of polarized Hec1B cells via the lutropin
+receptor.
+
+Spence JM(1), Tyler RE, Domaoal RA, Clark VL.
+
+Author information: 
+(1)Department of Microbiology and Immunology, School of Medicine and Dentistry,
+Rochester, NY 14642, U.S.A.
+
+We previously reported that gonococci convert to a more invasive phenotype
+(Inv(+)GC) following contact with cells expressing the lutropin receptor (LHr)
+and that Inv(+)GC express a novel adhesin that interacts with LHr. We propose
+that this adhesion allows Inv(+)GC to activate LHr and induce gonococcal
+transcytosis, usurping normal LHr function in fallopian and endometrial
+epithelium, which is to transport fetal chorionic gonadotropin (hCG) into the
+mother. Infected polarized Hec1B monolayers, grown on collagen-coated transwells,
+showed that the passage of GC across the monolayer occurred rapidly, within 30
+min, and proceeded at a constant rate with Inv(+)GC passage three-fold faster
+than GC grown in tissue culture media alone (Inv(-)GC). Electron microscopy found
+that Inv(+)GC triggered pseudopod formation around the bacterium, with GC found
+throughout the Hec1B targets within 30 min, while Inv(-)GC did neither.
+Pre-treatment of Inv(-)GC with recombinant ribosomal protein L12, a gonococcal
+"hCG-like" protein previously shown to increase invasion, also increased Inv(-)GC
+transcytosis to the rate of Inv(+)GC. This enhancement was completely abolished
+by addition of luteinizing hormone, a cognate ligand of LHr. This is convincing
+evidence that surface expressed L12 mediates gonococcal invasion and transcytosis
+via LHr, a mechanism that could be important in the development of invasive
+gonococcal disease in women.
+
+Copyright 2002 Academic Press.
+
+DOI: 10.1006/mpat.2001.0484 
+PMID: 11855942  [Indexed for MEDLINE]
+
+
+51. Mol Cell Biol. 2002 Feb;22(4):1266-75.
+
+Ribosomal protein L12 uses a distinct nuclear import pathway mediated by importin
+11.
+
+Plafker SM(1), Macara IG.
+
+Author information: 
+(1)Center for Cell Signaling and Department of Pharmacology, University of
+Virginia, Charlottesville, Virginia 22908, USA. smp5g@virginia.edu
+
+Ribosome biogenesis requires the nuclear translocation of ribosomal proteins from
+their site of synthesis in the cytoplasm to the nucleus. Analyses of the import
+mechanisms have revealed that most ribosomal proteins can be delivered to the
+nucleus by multiple transport receptors (karyopherins or importins). We now
+provide evidence that ribosomal protein L12 (rpL12) is distinguished from the
+bulk of ribosomal proteins because it accesses the importin 11 pathway as a major
+route into the nucleus. rpL12 specifically and directly interacted with importin 
+11 in vitro and in vivo. Both rpL12 binding to and import by importin 11 were
+inhibited by another importin 11 substrate, UbcM2, indicating that these two
+cargoes may bind overlapping sites on the transport receptor. In contrast, the
+import of rpL23a, a ribosomal protein that uses the general ribosomal protein
+import system, was not competed by UbcM2, and in an in vitro binding assay,
+importin 11 did not bind to the nuclear localization signal of rpL23a.
+Furthermore, in a transient transfection assay, the nuclear accumulation of rpL12
+was increased by coexpressed importin 11, but not by other importins. These data 
+are consistent with importin 11 being a mediator of rpL12 nuclear import. Taken
+together, these results indicate that rpL12 uses a distinct nuclear import
+pathway that may contribute to a mechanism for regulating ribosome synthesis
+and/or maturation.
+
+
+PMCID: PMC134630
+PMID: 11809816  [Indexed for MEDLINE]
+
+
+52. Infect Immun. 2000 Sep;68(9):5002-10.
+
+Role of ribosomal protein L12 in gonococcal invasion of Hec1B cells.
+
+Spence JM(1), Clark VL.
+
+Author information: 
+(1)Department of Microbiology and Immunology, School of Medicine and Dentistry,
+University of Rochester, Rochester, New York 14642, USA.
+
+Previous studies led to the development of a model of contact-induced enhanced
+gonococcal invasion of human reproductive cells that utilizes the lutropin
+receptor (LHr) as both the induction signal for conversion to this
+enhanced-gonococcal-invasion phenotype (Inv(+) GC) and as the specific Inv(+) GC 
+uptake mechanism. This model proposes that gonococci express a surface feature
+that mimics human chorionic gonadotropin (hCG), the cognate ligand for LHr, and
+that this structure is responsible for the specific and productive interaction of
+GC with LHr. In this report, we identify a 13-kDa gonococcal protein with
+immunological similarities to hCG. The antiserum reactivity is specific since
+interaction with the 13-kDa gonococcal protein can be blocked by the addition of 
+highly purified hCG. This gonococcal "hCG-like" protein, purified from
+two-dimensional gels and by immunoprecipitation, was determined by N-terminal
+sequencing to be the ribosomal protein L12. We present evidence that gonococcal
+L12 is membrane associated and surface exposed in gonococci, as shown by
+immunoblot analysis of soluble and insoluble gonococcal protein and antibody
+adsorption studies with fixed GC. Using highly purified recombinant gonococcal
+L12, we show that preincubation of Inv(-) GC with micromolar amounts of rL12
+leads to a subsequent five- to eightfold increase in invasion of the human
+endometrial cell line, Hec1B. In addition, nanomolar concentrations of exogenous 
+L12 inhibits gonococcal invasion to approximately 70% of the level in controls.
+Thus, we propose a novel cellular location for the gonococcal ribosomal protein
+L12 and concomitant function in LHr-mediated gonococcal invasion of human
+reproductive cells.
+
+
+PMCID: PMC101722
+PMID: 10948117  [Indexed for MEDLINE]
+
+
+53. Biol Chem. 2000 Mar;381(3):221-9.
+
+Structural investigations of the highly flexible recombinant ribosomal protein
+L12 from Thermotoga maritima.
+
+Wahl MC(1), Huber R, Marinkoviç S, Weyher-Stingl E, Ehlert S.
+
+Author information: 
+(1)Max-Planck-Institut für Biochemie, Abteilung Strukturforschung, Martinsried,
+Germany.
+
+Ribosomal protein L7/L12, the only multicopy component of the ribosome, is
+involved in translation factor binding and in the ribosomal GTPase center. The
+gene for L7/L12 from Thermotoga maritima was cloned and the protein expressed at 
+high levels in Escherichia coli. Purification of L7/L12 was achieved under
+non-denaturing conditions via heat treatment and two chromatographic steps.
+Circular dichroism melting profiles were monitored at 222 nm, showing the melting
+temperature of the protein at pH 7.5 around 110 degrees C, compared to
+approximately 60 degrees C for the highly homologous Escherichia coli protein.
+The unfolding was reversible and renaturation closely followed the path of the
+thermal melting. Dynamic light scattering, gel filtration chromatography, and
+crosslinking experiments suggested that under physiological buffer conditions
+Thermotoga maritima L7/L12 exists as a tetramer. The protein was crystallized
+under two conditions, yielding an orthorhombic (C222(1)) and a cubic (12(1)3)
+space group with an estimated two and three to four L7/L12 molecules per
+asymmetric unit, respectively. The crystals contained the full-length protein,
+and cryogenic buffers were developed which improved the mosaic spreads and the
+resolution limits. For the structure solution isoleucine was mutated to
+methionine at two separate positions, the mutant forms expressed as
+selenomethionine variants and crystallized.
+
+DOI: 10.1515/BC.2000.029 
+PMID: 10782993  [Indexed for MEDLINE]
+
+
+54. Genome Res. 2000 Apr;10(4):454-72.
+
+Construction of a high-resolution 2.5-Mb transcript map of the human
+6p21.2-6p21.3 region immediately centromeric of the major histocompatibility
+complex.
+
+Tripodis N(1), Palmer S, Phillips S, Milne S, Beck S, Ragoussis J.
+
+Author information: 
+(1)Genomics Laboratory, Division of Medical and Molecular Genetics, Guy's Campus,
+GKT School of Medicine, King's College London SE1 9RT, UK.
+
+We have constructed a 2.5-Mb physical and transcription map that spans the human 
+6p21.2-6p21.3 region and includes the centromeric end of the MHC, using a
+combination of techniques. In total 88 transcription units including exons,
+cDNAs, and cDNA contigs were characterized and 60 were confidently positioned on 
+the physical map. These include a number of genes encoding nuclear and splicing
+factors (Ndr kinase, HSU09564, HSRP20); cell cycle, DNA packaging, and apoptosis 
+related [p21, HMGI(Y), BAK]; immune response (CSBP, SAPK4); transcription
+activators and zinc finger-containing genes (TEF-5, ZNF76); embryogenesis related
+(Csa-19); cell signaling (DIPP); structural (HSET), and other genes (TULP1,
+HSPRARD, DEF-6, EO6811, cyclophilin), as well as a number of RP genes and
+pseudogenes (RPS10, RPS12-like, RPL12-like, RPL35-like). Furthermore, several
+novel genes (a Br140-like, a G2S-like, a FBN2-like, a ZNF-like, and B1/KIAA0229) 
+have been identified, as well as cDNAs and cDNA contigs. The detailed map of the 
+gene content of this chromosomal segment provides a number of candidate genes,
+which may be involved in several biological processes that have been associated
+with this region, such as spermatogenesis, development, embryogenesis, and
+neoplasia. The data provide useful tools for synteny studies between mice and
+humans, for genome structure analysis, gene density comparisons, and studies of
+nucleotide composition, of different isochores and Giemsa light and Giemsa dark
+bands.
+
+
+PMCID: PMC310888
+PMID: 10779486  [Indexed for MEDLINE]
+
+
+55. EMBO J. 2000 Jan 17;19(2):174-86.
+
+Flexibility, conformational diversity and two dimerization modes in complexes of 
+ribosomal protein L12.
+
+Wahl MC(1), Bourenkov GP, Bartunik HD, Huber R.
+
+Author information: 
+(1)Max-Planck-Institut für Biochemie, Abteilung Strukturforschung, Am
+Klopferspitz 18a, D-82152 Martinsried, Germany. mwahl@biochem.mpg.de
+
+Protein L12, the only multicopy component of the ribosome, is presumed to be
+involved in the binding of translation factors, stimulating factor-dependent GTP 
+hydrolysis. Crystal structures of L12 from Thermotogamaritima have been solved in
+two space groups by the multiple anomalous dispersion method and refined at 2.4
+and 2.0 A resolution. In both crystal forms, an asymmetric unit comprises two
+full-length L12 molecules and two N-terminal L12 fragments that are associated in
+a specific, hetero-tetrameric complex with one non-crystallographic 2-fold axis. 
+The two full-length proteins form a tight, symmetric, parallel dimer, mainly
+through their N-terminal domains. Each monomer of this central dimer additionally
+associates in a different way with an N-terminal L12 fragment. Both dimerization 
+modes are unlike models proposed previously and suggest that similar complexes
+may occur in vivo and in situ. The structures also display different L12 monomer 
+conformations, in accord with the suggested dynamic role of the protein in the
+ribosomal translocation process. The structures have been submitted to the
+Protein Databank (http://www.rcsb.org/pdb) under accession numbers 1DD3 and 1DD4.
+
+DOI: 10.1093/emboj/19.2.174 
+PMCID: PMC305552
+PMID: 10637222  [Indexed for MEDLINE]
+
+
+56. Immunogenetics. 1999 Jul;49(7-8):644-52.
+
+Genomic organization of the HSET locus and the possible association of HLA-linked
+genes with immotile cilia syndrome (ICS).
+
+Janitz K(1), Wild A, Beck S, Savasta S, Beluffi G, Ziegler A, Volz A.
+
+Author information: 
+(1)Institut für Immungenetik, Universitätsklinikum Charité, Humboldt Universität 
+zu Berlin, Spandauer Damm 130, 14050 Berlin, Germany.
+
+The kinesin-related protein (HSET) gene belongs to the kinesin superfamily, the
+members of which are involved in cellular transport processes. The HSET gene
+product was previously characterized by partial cDNA sequencing. The gene is
+located on the short arm of human Chromosome 6 (6p21.3), at the centromeric end
+of the major histocompatibility complex. Here, we report the genomic structure of
+the complete HSET gene together with its flanking loci. Sequence analysis of the 
+40 kilobase (kb) cosmid clone containing the HSET gene also revealed the presence
+of several new genes not related to the kinesin superfamily. These include a 60S 
+ribosomal protein L35A-like pseudogene (rPL35A-like) on the telomeric side and a 
+polycomb-like gene (PHF1), a copper tolerance-like gene (CUTA1) and the 5' part
+of the synaptic ras-GTPase-activating protein (SynGAP) gene centromeric of HSET. 
+In addition, a complete 60S ribosomal protein L12-like (rPL12L) gene in intron 3 
+of the HSET gene was identified which appears to have an open reading frame. The 
+possible involvement of the HSET gene and a beta-tubulin gene (TUBB) in the
+pathogenesis of immotile cilia syndrome (ICS) was studied by screening two
+unrelated ICS families with microtubular defects and suspected HLA linkage for
+mutations within the HSET gene and the TUBB gene. Four single base substitutions 
+were detected in the HSET gene, and none in the TUBB gene. On the basis of these 
+data, a role of the HSET and TUBB products in the pathogenesis of ICS in the two 
+families is unlikely.
+
+
+PMID: 10369922  [Indexed for MEDLINE]
+
+
+57. FEBS Lett. 1999 May 7;450(3):231-4.
+
+A novel plant nuclear gene encoding chloroplast ribosomal protein S9 has a
+transit peptide related to that of rice chloroplast ribosomal protein L12.
+
+Arimura S(1), Takusagawa S, Hatano S, Nakazono M, Hirai A, Tsutsumi N.
+
+Author information: 
+(1)Laboratory of Radiation Genetics, Graduate School of Agricultural and Life
+Sciences, The University of Tokyo, Japan.
+
+We have cloned a novel nuclear gene for a ribosomal protein of rice and
+Arabidopsis that is like the bacterial ribosomal protein S9. To determine the
+subcellular localization of the gene product, we fused the N-terminal region and 
+green fluorescent protein and expressed it transiently in rice seedlings.
+Localized fluorescence was detectable only in chloroplasts, indicating that this 
+nuclear gene encodes chloroplast ribosomal protein S9. The N-terminal region of
+rice ribosomal protein S9 was found to have a high sequence similarity to the
+transit peptide region of the rice chloroplast ribosomal protein L12, suggesting 
+that these transit peptides have a common lineage.
+
+
+PMID: 10359080  [Indexed for MEDLINE]
+
+
+58. Insect Biochem Mol Biol. 1999 Apr;29(4):349-53.
+
+The Drosophila homologue of ribosomal protein L8.
+
+Ruhf ML(1), Meister M.
+
+Author information: 
+(1)Unité Propre de Recherche 9022, Réponse Immunitaire et Développement chez les 
+Insectes, Institut de Biologie Moléculaire et Cellulaire, Strasbourg, France.
+
+We have cloned the gene encoding the Drosophila melanogaster homologue of
+ribosomal protein L8. It contains two introns: one in the 5' untranslated region 
+and the second in the beginning of the ORF, and encodes a 256-residue protein
+which is highly conserved when compared with RpL8 proteins of other organisms.
+The gene is present as a single copy in the Drosophila genome and maps at
+position 62E6-7 on polytene chromosomes. It is expressed ubiquitously at all
+stages of development. It is located close to the gene encoding RpL12 and both
+are candidate targets of the Minute mutation, M(3)LS2, mapped in the region
+62E-63A.
+
+
+PMID: 10333574  [Indexed for MEDLINE]
+
+
+59. Arch Biochem Biophys. 1999 May 15;365(2):254-61.
+
+Structure-function relationships in the ribosomal protein L12 in the archaeon
+Sulfolobus acidocaldarius.
+
+Kusser I(1), Lowing C, Rathlef C, Köpke AK, Matheson AT.
+
+Author information: 
+(1)Department of Biochemistry and Microbiology, University of Victoria, Victoria,
+British Columbia, V8W 3P6, Canada.
+
+A series of mutant L12 ribosomal proteins was prepared by site-directed mutations
+in the L12 protein gene of the archaeon Sulfolobus acidocaldarius. The mutant
+protein genes were overexpressed in Escherichia coli, and the products purified
+and incorporated into ribosomal cores which had been ethanol extracted to remove 
+wild-type L12 protein. Measurements were made to determine if the mutation
+affected the binding of the L12 protein to the ribosome core or affected the
+translational activity of the resulting ribosome. Changing tyrosine [3] or
+tyrosine [5], conserved in all archaea and present in all eukarya in positions
+[3] and [7], to phenylalanine had no effect on binding or translational activity 
+while changes to glycine significantly reduced binding and translational
+activity. Changing the single arginine [37] residue, conserved in almost all
+archaeal and eukaryal L12 proteins, to lysine, glutamic acid, glutamine, or
+glycine had no effect on binding to the core and had little or no significant
+effect on translational activity. The same was true when lysine [39], conserved
+in all archaeal L12 proteins, was changed to arginine, glutamic acid, glutamine, 
+or glycine. Changing phenylalanine [104], the penultimate amino acid at the
+C-terminal end, which is conserved in all archaeal and eukaryal L12 proteins, to 
+tyrosine or glycine had no effect on binding but lowered the translational
+activity by 60 and 75%, respectively, suggesting that this amino acid plays an
+important role in translation. Deletion of the highly charged region in the
+C-terminal domain, which is present in all archaeal and eukaryal L12 proteins,
+decreased transitional activity by 50%, suggesting this region is also involved
+in factor interactions.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/abbi.1999.1154 
+PMID: 10328820  [Indexed for MEDLINE]
+
+
+60. Proc Natl Acad Sci U S A. 1997 May 27;94(11):5967-72.
+
+Complete nucleotide sequence of the chloroplast genome from the green alga
+Chlorella vulgaris: the existence of genes possibly involved in chloroplast
+division.
+
+Wakasugi T(1), Nagai T, Kapoor M, Sugita M, Ito M, Ito S, Tsudzuki J, Nakashima
+K, Tsudzuki T, Suzuki Y, Hamada A, Ohta T, Inamura A, Yoshinaga K, Sugiura M.
+
+Author information: 
+(1)Center for Gene Research, Nagoya University, Nagoya 464-01, Japan.
+
+The complete nucleotide sequence of the chloroplast genome (150,613 bp) from the 
+unicellular green alga Chlorella vulgaris C-27 has been determined. The genome
+contains no large inverted repeat and has one copy of rRNA gene cluster
+consisting of 16S, 23S, and 5S rRNA genes. It contains 31 tRNA genes, of which
+the tRNALeu(GAG) gene has not been found in land plant chloroplast DNAs analyzed 
+so far. Sixty-nine protein genes and eight ORFs conserved with those found in
+land plant chloroplasts have also been found. The most striking is the existence 
+of two adjacent genes homologous to bacterial genes involved in cell division,
+minD and minE, which are arranged in the same order in Escherichia coli. This
+finding suggests that the mechanism of chloroplast division is similar to
+bacterial division. Other than minD and minE homologues, genes encoding ribosomal
+proteins L5, L12, L19, and S9 (rpl5, rpl12, rpl19, and rps9); a chlorophyll
+biosynthesis Mg chelating subunit (chlI); and elongation factor EF-Tu (tufA),
+which have not been reported from land plant chloroplast DNAs, are present in
+this genome. However, many of the new chloroplast genes recently found in red and
+brown algae have not been found in C. vulgaris. Furthermore, this algal species
+possesses two long ORFs related to ycf1 and ycf2 that are exclusively found in
+land plants. These observations suggest that C. vulgaris is closer to land plants
+than to red and brown algae.
+
+
+PMCID: PMC20890
+PMID: 9159184  [Indexed for MEDLINE]
+
+
+61. J Biol Chem. 1997 Feb 7;272(6):3302-8.
+
+Binding of mammalian ribosomal protein complex P0.P1.P2 and protein L12 to the
+GTPase-associated domain of 28 S ribosomal RNA and effect on the accessibility to
+anti-28 S RNA autoantibody.
+
+Uchiumi T(1), Kominami R.
+
+Author information: 
+(1)Department of Biochemistry, Niigata University School of Medicine, Niigata 951
+Japan.
+
+We have investigated binding of rat ribosomal proteins to the "GTPase domain" of 
+28 S rRNA and its effect on accessibility to the anti-28 S autoantibody, which
+recognizes a unique tertiary structure of this RNA domain. Ribosomal protein L12 
+and P protein complex (P complex) consisting of P0, P1, and P2 both bound to the 
+GTPase domain of rat 28 S rRNA in a buffer containing Mg2. Chemical footprinting 
+analysis of their binding sites revealed that the P complex mainly protected a
+conserved internal loop region comprising residues 1855-1861 and 1920-1922,
+whereas L12 protected an adjacent helix region encompassing residues 1867-1878
+and 1887-1899. These sites are close to but distinct from the binding site for
+anti-28 S antibody determined previously. The bindings of P complex and L12
+increased the anti-28 S accessibility, as revealed by gel retardation and
+quantitative immunoprecipitation analyses. In a Mg2+-eliminated condition, the
+RNA failed to bind to either anti-28 S or L12 but assembled into a complex under 
+their coexistence. However, the RNA retained a property of binding to the P
+complex even in the absence of Mg2+, and this binding conferred high anti-28 S
+accessibility. These results indicated that the bindings of the P complex and L12
+to their respective sites influenced the GTPase domain to increase the
+accessibility to anti-28 S. A possible RNA conformation adjusted by the protein
+bindings is discussed.
+
+
+PMID: 9013569  [Indexed for MEDLINE]
+
+
+62. Clin Exp Immunol. 1994 Oct;98(1):35-9.
+
+Serological association of lupus autoantibodies to a limited functional domain of
+28S ribosomal RNA and to the ribosomal proteins bound to the domain.
+
+Sato T(1), Uchiumi T, Arakawa M, Kominami R.
+
+Author information: 
+(1)Department of Medicine (II) Niigata University School of Medicine, Japan.
+
+Site-specific anti-RNA antibodies were sought in 120 sera of patients with
+autoimmune diseases by ribonuclease-protection assay using six fragments covering
+28S ribosomal RNA (rRNA) as antigens. Fifteen of 90 sera from patients with
+systemic lupus erythematosus (SLE), but none of 30 sera of the other autoimmune
+diseases, provided a 60 nucleotide fragment within a region termed the 'GTPase
+domain' of 28S rRNA. These sera had potency to precipitate 0.42-69.3 nmol of the 
+RNA domain per ml serum, which was higher than 15 control sera of healthy donors.
+No other specific antigenic site was detected in 28S rRNA under conditions used. 
+All of the 15 sera having this anti-RNA antibody showed reactivity to ribosomal P
+proteins (anti-P), and two of them contained an additional antibody to ribosomal 
+protein L12. These results suggested a strong association of the production of
+these three antibodies. Since P and L12 proteins form a stable complex with the
+GTPase domain, this serological association may result from an immune response to
+epitopes clustered on a single RNA-protein complex domain in ribosomes.
+
+
+PMCID: PMC1534158
+PMID: 7923881  [Indexed for MEDLINE]
+
+
+63. Biochem J. 1994 Jun 15;300 ( Pt 3):787-92.
+
+Substrate- and species-specific processing enzymes for chloroplast precursor
+proteins.
+
+Su Q(1), Boschetti A.
+
+Author information: 
+(1)Institute of Biochemistry, University of Bern, Switzerland.
+
+Using different precursors of chloroplast proteins and stromal extracts from both
+Chlamydomonas reinhardii and pea chloroplasts, we analysed the specificity of
+stroma-localized processing peptidases. By gel filtration of a stromal extract
+from isolated Chlamydomonas chloroplasts, fractions could be separated containing
+enzymic activities for processing the precursors of the small subunit of
+ribulose-1,5-bisphosphate carboxylase (pSS) and of the protein OEE1 from the
+photosynthetic water-splitting complex (pOEE1). The enzymes differed not only in 
+molecular size, but also in their sensitivity to inhibitors and in their pH
+optima. Obviously, in the stroma of Chlamydomonas chloroplasts different
+peptidases exist for processing of pSS and pOEE1, the latter being converted into
+an intermediate-sized form, iOEE1, which was found to be further processed to
+mature OEE1 by a thylakoid-associated protease. To study the species-specificity 
+of the stromal peptidases, stromal extracts from Chlamydomonas and pea
+chloroplasts were incubated with pSS from either of these organisms. In the
+heterologous combinations, the precursors were partly hydrolysed, but not to the 
+correct size. In importation assays, pSS from pea (but also the precursor of the 
+ribosomal protein L12 from spinach) could not enter into chloroplasts from
+Chlamydomonas. In contrast, the algal pSS was imported into chloroplasts from
+pea, although it was not processed to mature SS. Our results indicate that the
+importation machinery and the pSS-processing enzymes in higher plants and green
+algae have different specificities and that in Chlamydomonas several stromal
+peptidases for different precursor proteins exist.
+
+
+PMCID: PMC1138235
+PMID: 8010961  [Indexed for MEDLINE]
+
+
+64. J Biol Chem. 1994 Mar 11;269(10):7330-6.
+
+Multicopy GTPase center protein L12 of Arabidopsis chloroplast ribosome is
+encoded by a clustered nuclear gene family with the expressed members closely
+linked to tRNA(Pro) genes.
+
+Weglöhner W(1), Subramanian AR.
+
+Author information: 
+(1)Max-Planck-Institut für Molekulare Genetik, Berlin-Dahlem, Germany.
+
+A conserved architectural feature of ribosomes is a protuberance (the stalk) in
+the large subunit, essential for ribosomal interactions with translational
+factors and GTP hydrolysis and generated by two dimers of L12, the only multicopy
+protein in ribosomes. In higher plants, the rpl12 gene for chloroplast L12 is
+located in the nucleus. We report here the cloning and sequencing of this nuclear
+gene from Arabidopsis thaliana, revealing the first gene family for a chloroplast
+ribosomal protein (RP). A single cluster/haploid genome of three rpl12 genes is
+located in the sequenced 9.1-kilobase region of the Arabidopsis genome. Two of
+the rpl12 genes encode identical mature proteins, and the third encodes a 25%
+divergent RP, although the chloroplast-targeting transit peptide in each is
+distinct. The rpl12 genes encoding identical RPs are closely linked at their 5'
+ends to identical cytosolic tRNA(Pro) genes with a < 250-base pair spacer.
+Reverse transcriptase polymerase chain reaction experiments with total RNA
+isolated from Arabidopsis (and characterization of several L12 cDNA clones) show 
+that only the tRNA-linked rpl12 genes are expressed. We also show (by polymerase 
+chain reaction experiments with isolated total DNA) that this tRNA(Pro)-rpl12
+gene linkage is conserved in spinach (inferred to contain a single gene copy)
+indicating its importance. The previously described enhanced translation of
+spinach L12 mRNA from its two tandem AUG codons and the two functional rpl12
+genes in Arabidopsis probably provide two mechanisms for generating the four
+copies of L12/chloroplast ribosome, qualitatively different from those attempted 
+in eubacteria.
+
+
+PMID: 8125949  [Indexed for MEDLINE]
+
+
+65. J Biol Chem. 1993 Dec 25;268(36):27447-57.
+
+A novel operon organization involving the genes for chorismate synthase (aromatic
+biosynthesis pathway) and ribosomal GTPase center proteins (L11, L1, L10, L12:
+rplKAJL) in cyanobacterium Synechocystis PCC 6803.
+
+Schmidt J(1), Bubunenko M, Subramanian AR.
+
+Author information: 
+(1)Max-Planck-Institut für Molekulare Genetik, Berlin-Dahlem, Germany.
+
+Many of the ribosomal protein (RP) genes in both bacterial and chloroplast
+genomes occur, for reasons not yet understood, in operons that include
+nonribosomal genes. Here we report such an operon organization in a
+cyanobacterium (Synechocystis PCC6803) involving the genes for four RPs that are 
+important in the GTPase function of the ribosome and the aroC gene encoding
+chorismate synthase, a key enzyme in the shikimate pathway for biosynthesis of
+aromatic amino acids and cell wall components. The Synechocystis aroC encodes a
+362-amino-acid residue protein which is 52, 60, and 68% identical to two
+eubacterial (both 52%), yeast, and a higher plant (Corydalis) chorismate
+synthase, respectively. The gene was overexpressed in Escherichia coli, and the
+gene product was shown to cross-react with antibodies to Corydalis chorismate
+synthase; it also complemented an aroC-lacking E. coli strain. The Synechocystis 
+rpl1 and rpl11 genes encode polypeptides of 237 and 141 amino acid residues,
+respectively, also with high sequence identities to the corresponding RP
+sequences from other eubacteria and higher plant chloroplasts. The gene order is 
+shown to be: rpl11-86bp spacer-rpl1-460bp spacer-rpl10-87-bp spacer-rpl12-206bp
+spacer-aroC. Southern and Northern blot analyses of Synechocystis DNA and RNA,
+respectively, revealed a single cluster of these genes per genome which is
+transcribed from a common promoter to an unusually long, approximately
+9500-nucleotide transcript. Several constructs of the cyanobacterial aroC and
+rpl12 genes were made and expressed in E. coli to examine the mechanisms for
+their very differential expression from a polycistronic mRNA (e.g. four copies
+L12/ribosome; chorismate synthase, a non-abundant protein). These results present
+the first biochemical/molecular genetic evidence of shikimate pathway in the
+cyanobacterial group.
+
+
+PMID: 7505271  [Indexed for MEDLINE]
+
+
+66. J Bacteriol. 1993 Jun;175(12):3744-8.
+
+Growth rate paradox of Salmonella typhimurium within host macrophages.
+
+Abshire KZ(1), Neidhardt FC.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Michigan Medical
+School, Ann Arbor 48109-0620.
+
+The growth rate of Salmonella typhimurium U937 within host macrophages was
+estimated by two independent methods. The extent to which ribosomal protein L12
+is acetylated to produce ribosomal protein L7 changes markedly with the growth
+rate. By this measure, the intracellular bacteria appeared to be growing rapidly.
+Measurements of viable bacteria, however, indicated that the bacteria were
+growing slowly. A solution of this apparent growth rate paradox was sought by
+treating U937 cells infected with S. typhimurium X3306 with ampicillin or
+chloramphenicol to help determine the number of bacteria that were actively
+growing and dividing in the intracellular condition. Use of these antibiotics
+showed that by 2 h after invasion, the intracellular bacteria consisted of at
+least two populations, one static and the other rapidly dividing. This finding
+implies that previously described changes in the gene expression of S.
+typhimurium are important for the survival and/or multiplication of the bacteria 
+within the macrophage.
+
+
+PMCID: PMC204790
+PMID: 8509329  [Indexed for MEDLINE]
+
+
+67. Biochim Biophys Acta. 1993 Mar 20;1172(3):349-52.
+
+Identification of the nuclear-encoded chloroplast ribosomal protein L12 of the
+monocotyledonous plant Secale cereale and sequencing of two different cDNAs with 
+strong codon bias.
+
+Schmidt M(1), Pichl L, Lepper M, Feierabend J.
+
+Author information: 
+(1)Botanisches Institut, J.W. Goethe-Universität, Frankfurt am Main, Germany.
+
+Two different cDNA clones (SCL12-1 and SCL12-2) encoding precursors of a
+chloroplast ribosomal protein with homology to L12 from Escherichia coli were
+isolated from rye leaf cDNA libraries and sequenced. The corresponding
+polypeptide of rye chloroplast ribosomes was identified. The sequences for the
+mature proteins of M(r) 13,447 and 13,609 share 85% amino acid identity. The
+mature polypeptide of clone SCL12-1 has an amino acid identity of 71%, 72% or
+44%, respectively, relative to L12 proteins from spinach, tobacco, or E. coli.
+Codon usage of the rye L12 cDNAs shows a high preference (97% and 82%) for G or C
+in the third base position.
+
+
+PMID: 8448215  [Indexed for MEDLINE]
+
+
+68. FEBS Lett. 1992 Apr 6;300(3):199-202.
+
+cDNA cloning and sequencing of tobacco chloroplast ribosomal protein L12.
+
+Li Y(1), Itadani H, Sugita M, Sugiura M.
+
+Author information: 
+(1)Center for Gene Research, Nagoya University, Japan.
+
+Tobacco chloroplast ribosomal protein L12 was isolated as a
+ssDNA-cellulose-binding protein from a chloroplast soluble protein fraction.
+Based on the N-terminal amino acid sequence of chloroplast L12, a cDNA clone was 
+isolated and characterized. The precursor protein deduced from the DNA sequence
+consists of a transient peptide of 53 amino acid residues and a mature L12
+protein of 133 amino acid residues. The chloroplast L12 protein was synthesized
+with a reticulocyte lysate and subjected to nucleic acid-binding assays. L12
+synthesized in vitro does not bind to ssDNA, dsDNA nor ribonucleotide
+homopolymers, but it binds to cellulose matrix.
+
+
+PMID: 1555644  [Indexed for MEDLINE]
+
+
+69. Nucleic Acids Res. 1992 Feb 25;20(4):689-97.
+
+Nuclear-encoded chloroplast ribosomal protein L12 of Nicotiana tabacum:
+characterization of mature protein and isolation and sequence analysis of cDNA
+clones encoding its cytoplasmic precursor.
+
+Elhag GA(1), Thomas FJ, McCreery TP, Bourque DP.
+
+Author information: 
+(1)Department of Biochemistry, University of Arizona, Tucson 85721.
+
+Poly(A)+ mRNA isolated from Nicotiana tabacum (cv. Petite Havana) leaves was used
+to prepare a cDNA library in the expression vector lambda gt11. Recombinant phage
+containing cDNAs coding for chloroplast ribosomal protein L12 were identified and
+sequenced. Mature tobacco L12 protein has 44% amino acid identity with ribosomal 
+protein L7/L12 of Escherichia coli. The longest L12 cDNA (733 nucleotides) codes 
+for a 13,823 molecular weight polypeptide with a transit peptide of 53 amino
+acids and a mature protein of 133 amino acids. The transit peptide and mature
+protein share 43% and 79% amino acid identity, respectively, with corresponding
+regions of spinach chloroplast ribosomal protein L12. The predicted amino
+terminus of the mature protein was confirmed by partial sequence analysis of
+HPLC-purified tobacco chloroplast ribosomal protein L12. A single L12 mRNA of
+about 0.8 kb was detected by hybridization of L12 cDNA to poly(A)+ and total leaf
+RNA. Hybridization patterns of restriction fragments of tobacco genomic DNA
+probed with the L12 cDNA suggested the existence of more than one gene for
+ribosomal protein L12. Characterization of a second cDNA with an identical L12
+coding sequence but a different 3'-noncoding sequence provided evidence that at
+least two L12 genes are expressed in tobacco.
+
+
+PMCID: PMC312006
+PMID: 1542565  [Indexed for MEDLINE]
+
+
+70. Biochimie. 1991 Jun;73(6):647-55.
+
+Genetic engineering and overexpression of ribosomal L12 protein genes from three 
+different archaebacteria in E coli.
+
+Köpke AK(1), Hannemann F, Boeckh T.
+
+Author information: 
+(1)Max-Planck-Institut für Molekulare Genetik, Abteilung Wittmann, Berlin,
+Germany.
+
+Genes coding for ribosomal protein L12 from Methanococcus vannielii (Mva),
+Halobacterium halobium (Hha) and Sulfolobus solfataricus (Sso) have been
+subcloned in the polylinker region of pUC19. An efficient Shine-Dalgarno sequence
+has been attached to the 5' end of the genes, and two ochre stop codons have been
+created at their 3' ends, where necessary. In addition, mutants of the MvaL12 and
+HhaL12 genes were constructed, which coded for a cysteine residue at the
+C-terminus of the protein. The constructs were transferred together with the
+pUC19 polylinker as gene cartridges into different expression vectors. These
+constructed plasmids were transformed in the appropriate E coli hosts and tested 
+for expression. Two systems were found to work efficiently for overexpression,
+namely the pKK223-3 vector featuring a tac promoter, and the pT7-5 vector
+featuring a T7-promoter. The over-expressed proteins were purified to
+homogeneity; their purity was investigated by one and two-dimensional gel
+systems, amino acid analysis and N-terminal protein sequencing for 10 steps or
+more. The amount of protein purified from E coli test cultures bearing the
+expression plasmids was always more than 2.5 mg/l of medium used.
+
+
+PMID: 1764512  [Indexed for MEDLINE]
+
+
+71. Biochem Biophys Res Commun. 1990 Oct 15;172(1):35-41.
+
+The primary structure of rat ribosomal protein L12.
+
+Suzuki K(1), Olvera J, Wool IG.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Chicago,
+Illinois 60637.
+
+The covalent structure of the rat 60S subunit protein L12 which is a component of
+the ribosomal elongation factor binding domain was deduced from the sequence of
+nucleotides in a recombinant cDNA and confirmed from the NH2-terminal amino acid 
+sequence of the protein. L12 has 165 amino acids and a molecular weight of
+17,834. Hybridization of the cDNA to digests of nuclear DNA suggests that there
+are 11-13 copies of the L12 gene. The mRNA for the protein is about 800
+nucleotides in length. Rat L12 is homologous to Saccharomyces cerevisiae L15. The
+cDNA contains the highly repetitive DNA sequence, R.dre.1, in the 3' noncoding
+region.
+
+
+PMID: 1977388  [Indexed for MEDLINE]
+
+
+72. J Biol Chem. 1990 Apr 15;265(11):6436-40.
+
+Overexpression of the methanococcal ribosomal protein L12 in Escherichia coli and
+its incorporation into halobacterial 50 S subunits yielding active ribosomes.
+
+Köpke AK(1), Paulke C, Gewitz HS.
+
+Author information: 
+(1)Max-Planck-Institut für Molekulare Genetik, Abteilung Wittmann, Berlin, West
+Germany.
+
+The gene for the ribosomal L12 protein from the archaebacterium Methanococcus
+vannielii was cloned into the expression vector pKK223-3. The protein was
+overexpressed and remained stable in Escherichia coli XL1 cells. Purification
+yielded a protein with the same amino acid composition and sequence as in
+Methanococcus but it was acetylated at the N terminus as in the case with the
+homologous protein of E. coli. The in vivo incorporation of the overexpressed
+protein into the E. coli ribosomes was not observed. The overexpressed M.
+vannielii protein MvaL12e was incorporated into halobacterial ribosomes, thereby 
+displacing the corresponding halobacterial L12 protein. Intact 70 S ribosomes
+were reconstituted from halobacterial 50 S subunits carrying the MvaL12e protein.
+These ribosomes were as active as native halobacterial ribosomes in a poly(U)
+assay. On the other hand, our attempts to incorporate L12 proteins from Bacillus 
+stearothermophilus and E. coli into halobacterial ribosomes were not successful. 
+These results support the conclusion which is based on primary sequence and
+predicted secondary structure comparisons that there exist two distinct L12
+protein families, namely the eubacterial L12 protein family and the
+eukaryotic/archaebacterial L12 protein family.
+
+
+PMID: 2180948  [Indexed for MEDLINE]
+
+
+73. Biochim Biophys Acta. 1989 Aug 31;997(3):268-77.
+
+Phosphorylation by cell surface protein kinase of bovine and human fibrinogen and
+fibrin.
+
+Sonka J(1), Kübler D, Kinzel V.
+
+Author information: 
+(1)Institute for Experimental Pathology, German Cancer Research Center,
+Heidelberg.
+
+Human and bovine fibrinogen as well as fibrin are shown to be phosphorylated by
+Co631 (monolayer, hamster) and RPL12 (suspension, chicken) cells by their surface
+protein kinase of the casein kinase II type. The phosphate label is introduced
+into the alpha-peptide. The kinase system phosphorylates serine residues and
+utilizes GTP equally well as ATP. The participation of intact cell surfaces
+indicates the possibility of phosphorylation of extracellular fibrinogen
+independently of the site of its biosynthesis.
+
+
+PMID: 2765564  [Indexed for MEDLINE]
+
+
+74. Mol Gen Genet. 1989 Jun;217(2-3):289-93.
+
+Cloning and molecular characterization of the gene rimL which encodes an enzyme
+acetylating ribosomal protein L12 of Escherichia coli K12.
+
+Tanaka S(1), Matsushita Y, Yoshikawa A, Isono K.
+
+Author information: 
+(1)Department of Biology, Faculty of Science, Kobe University, Japan.
+
+The rimL gene of Escherichia coli K12 encodes an enzyme catalyzing the
+acetylation of the N-terminal serine of ribosomal protein L12, thereby converting
+it into L7. Using a mutant strain defective in this acetylation reaction, we
+cloned the rimL gene into cosmid pHC79 and characterized it at the molecular
+level. From analysis by SDS-polyacrylamide gel electrophoresis of the proteins
+synthesized in maxi-cells containing derivatives of the rimL-harboring plasmid
+into which transposon gamma delta had been inserted at various sites, the product
+of this gene was identified as a protein with an apparent molecular weight of
+20.3 kDa. The nucleotide sequence of the gene and the amino acid sequence deduced
+from the nucleotide sequence were compared with those of two other ribosomal
+protein acetylases encoded by the rimI and rimJ genes (Yoshikawa et al. 1987). A 
+considerable degree of overall similarity was seen between rimL and rimJ, but the
+degree of similarity between rimL and rimI was very low. In addition, a short
+stretch of similar amino acid sequence was found in all three rim acetylases. The
+significance of these results with respect to other acetylating enzymes, in
+particular those involved in the acetylation of aminoglycoside antibiotics is
+discussed.
+
+
+PMID: 2671655  [Indexed for MEDLINE]
+
+
+75. Biochemistry. 1989 Apr 18;28(8):3525-9.
+
+Chloroplast ribosomal protein L12 is encoded in the nucleus: construction and
+identification of its cDNA clones and nucleotide sequence including the transit
+peptide.
+
+Giese K(1), Subramanian AR.
+
+Author information: 
+(1)Max-Planck-Institut für Molekulare Genetik, Abteilung Wittmann, Berlin, West
+Germany.
+
+An architectural feature found in all classes of ribosomes is a thin, 10-nm-long 
+protuberance in the large subunit, generated by multiple copies of r-protein L12.
+The primary structure of spinach chloroplast r-protein L12 is known [Bartsch, M.,
+Kimura, M., & Subramanian, A. R. (1982) Proc. Natl. Acad. Sci. U.S.A. 79,
+6871-6875], but the location of its gene, whether in the organelle or in the
+nucleus, has not been determined. Therefore, we synthesized four
+oligodeoxynucleotides based on the amino acid sequence data and used them to
+probe a spinach cDNA library we constructed in lambda gt11 vector. cDNA inserts
+from four of the hybridizing recombinant clones were characterized and sequenced.
+The data showed that they are reverse transcripts of varying length, all derived 
+from a single poly(A+) RNA species. The longest cDNA molecule is 900 base pairs
+(bp) long and includes a 5' noncoding sequence followed by two neighboring AUG
+codons both in the consensus, eukaryotic initiator context, a 56-codon-long
+transit peptide sequence (starting from the first AUG codon), the amino acid
+sequence of mature L12 protein, and a 238 bp long 3' downstream noncoding
+sequence including a polyadenylation signal and the start of the poly(A) tail.
+The transit peptide sequence has an unusual amino acid composition similar to
+that of other known chloroplast transit peptides. Northern blot analysis of the
+poly(A+) RNA isolated from spinach seedlings and probed with the cDNA insert
+revealed the occurrence of a strong, broad, 950-nucleotide-long band of the
+corresponding poly(A+)-containing mRNA species.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+
+PMID: 2568127  [Indexed for MEDLINE]
+
+
+76. J Biol Chem. 1988 May 15;263(14):6538-46.
+
+Primary structure of the archaebacterial Methanococcus vannielii ribosomal
+protein L12. Amino acid sequence determination, oligonucleotide hybridization,
+and sequencing of the gene.
+
+Strobel O(1), Köpke AK, Kamp RM, Böck A, Wittmann-Liebold B.
+
+Author information: 
+(1)Max-Planck-Institut für Molekulare Genetik, Abteilung Wittmann, Berlin, West
+Germany.
+
+The primary structure of ribosomal protein L12 from Methanococcus vannielii has
+been determined by direct amino acid sequence analysis with automated liquid
+phase Edman degradation of the entire protein and manual
+4-N,N'-dimethylaminoazobenzene-4'-isothiocyanate/phenylisothiocyanate sequencing 
+of fragments obtained by enzymatic digestion and by partial acid hydrolysis. The 
+knowledge of the amino acid sequences of these various fragments allowed the
+synthesis of two oligonucleotide probes complementary to the 5'- and the 3'-end
+of the gene, and they were used for hybridization with digested M. vannielii
+chromosomal DNA. Both oligonucleotide probes gave similar and clear hybridization
+signals. The plasmid pMvaX1 containing the entire gene of protein L12 was
+obtained. The nucleotide sequence complemented the partial amino acid sequence,
+and it is in full agreement with the protein sequence and the amino acid
+analysis. Comparison of secondary structural elements and hydrophobicity plots of
+the M. vannielii protein L12 with the known L12 sequences derived from other
+archaebacterial and eukaryotic sources show strong homologies among these
+sequences. They contain an exceptional highly conserved hydrophilic sequence area
+in the C-terminal part of the proteins. In comparison with eubacterial L12
+proteins, the conservation is reduced to single amino acid residues. However, the
+eubacterial L12 proteins have hydrophilic regions similar to those of L12 from M.
+vannielii. These regions are predicted to be located at the surface of the
+proteins, as has been proven to be the case in crystallized Escherichia coli L12 
+protein. It is possible that the strongly conserved hydrophilic sequence regions 
+form part of the factor-binding domain.
+
+
+PMID: 2834382  [Indexed for MEDLINE]
+
+
+77. Biochimie. 1987 Oct;69(10):1043-7.
+
+The structure and dynamics of ribosomal protein L12.
+
+Liljas A(1), Gudkov AT.
+
+Author information: 
+(1)Institute of Molecular Biology, Uppsala University, Sweden.
+
+The protein L12 in bacterial ribosomes is essential for the proper function of a 
+number of factors involved in protein synthesis. The protein is mostly described 
+in terms of a rigid structure despite the repeated observation of high
+flexibility. This paper gives a review of the structure and flexibility of L12 in
+relation to its function.
+
+
+PMID: 3126823  [Indexed for MEDLINE]
+
+
+78. Biochimie. 1987 Oct;69(10):1013-20.
+
+The primary structure of the ribosomal A-protein (L12) from the halophilic
+eubacterium Haloanaerobium praevalens.
+
+Matheson AT(1), Louie KA, Tak BD, Zuker M.
+
+Author information: 
+(1)Department of Biochemistry and Microbiology, University of Victoria, BC,
+Canada.
+
+The ribosomal A-protein, equivalent to the ribosomal protein L12 from Escherichia
+coli, has been sequenced from the anaerobic halophilic eubacterium Haloanaerobium
+praevalens (DSM 2228). The protein contains 122 amino acids, has a composition of
+Asp6, Asn2, Thr2, Ser6, Glu22, Pro2, Gly13, Ala19, Val12, Met4, Ile5, Leu11,
+Phe3, Lys14, Arg1 and has a molecular weight of 12,691. The hydrophilicity
+profile was determined for this protein. A phylogenetic or cluster tree was
+calculated from computer analysis of the sequence data on eubacterial ribosomal
+A-proteins. H. praevalens clusters with a group that includes Bacillus subtilis, 
+Micrococcus lysodeikticus, Bacillus stearothermophilus and Clostridium
+pasteurianum.
+
+
+PMID: 3126821  [Indexed for MEDLINE]
+
+
+79. Biochem Int. 1984 Jan;8(1):69-76.
+
+Computed spatial homology between the L12 protein of chloroplast ribosome and 1.7
+A structure of Escherichia coli L12 domain.
+
+Leijonmarck M, Liljas A, Subramanian AR.
+
+A computer-graphic model of the tertiary structure of a functional domain in an
+organelle ribosomal protein was generated using the amino acid sequence of
+chloroplast ribosomal protein L12 from spinach (Bartsch, Kimura and Subramanian, 
+Proc. Natl. Acad. Sci. USA 79, 6871-6875, 1982) and 1.7 A resolution coordinates 
+of the E. coli L12 C-terminal fragment crystal (Leijonmarck, Eriksson and Liljas,
+Nature 286, 824-826, 1980). A comparison between the model and the experimentally
+derived structure shows that although 40% of the primary structure of this part
+of the two proteins has undergone amino acid replacements, the gross spatial
+structure of the domain is maintained and the character of the surfaces of
+possible functional importance are not significantly altered.
+
+
+PMID: 6383397  [Indexed for MEDLINE]
+
+
+80. Nucleic Acids Res. 1983 Aug 11;11(15):5277-86.
+
+Maize chloroplast DNA encodes a protein sequence homologous to the bacterial
+ribosome assembly protein S4.
+
+Subramanian AR, Steinmetz A, Bogorad L.
+
+A cloned restriction fragment of maize chloroplast DNA (Bam H1 fragment 5) is
+shown to contain an open reading frame which encodes a basic protein of 201 amino
+acid residues with 40-50% sequence homology to E. coli ribosomal protein S4.
+Based on the experimentally determined sequence homology between the highly
+conserved bacterial ribosomal protein L12 and its chloroplast homologue (Bartsch 
+M., Kimura, M. and Subramanian, A.R. (1982) Proc. Natl. Acad. Sci. USA 79, 6871),
+we conclude that this reading frame represents the maize chloroplast S4 gene. The
+nucleotide sequence of a 1100 base pair DNA segment containing the putative gene 
+is presented.
+
+
+PMCID: PMC326263
+PMID: 6308577  [Indexed for MEDLINE]
+
+
+81. Proc Natl Acad Sci U S A. 1982 Nov;79(22):6871-5.
+
+Purification, primary structure, and homology relationships of a chloroplast
+ribosomal protein.
+
+Bartsch M(1), Kimura M, Subramanian AR.
+
+Author information: 
+(1)Max-Planck-Institut für Molekulare Genetik, Abteilung Wittmann, Ihnestrasse
+63-73, D-1000 Berlin 33, Germany.
+
+A chloroplast ribosomal protein that showed immunological homology to Escherichia
+coli ribosomal protein L12 was purified from spinach (Spinacia oleracea) leaves
+and its primary structure was determined by manual micro Edman degradation. The
+protein is composed of 130 amino acid residues and has M(r) 13,576. It shows
+structural features characteristic of the L12 proteins of eubacterial 70S
+ribosomes (e.g., identical amino acid residues in about 50% of the sequence) but 
+no apparent homology to the L12-type proteins of eukaryotic cytoplasmic 80S
+ribosomes. The homology to eubacterial proteins is highest in the COOH-terminal
+region (70%) and low in the NH(2)-terminal region (<20%).
+
+
+PMCID: PMC347235
+PMID: 16593249 
+
+
+82. Proc Natl Acad Sci U S A. 1982 Mar;79(5):1466-8.
+
+Use of different tRNASer isoacceptor species in vitro to discriminate between the
+expression of plasmid genes.
+
+Cenatiempo Y, Robakis N, Meza-Basso L, Brot N, Weissbach H, Reid BR.
+
+A simplified translation system coupled to DNA transcription that involves
+assaying the synthesis of the first dipeptide of a gene product has been
+described recently [Robakis, N., Meza-Basso, L., Brot, N. & Weissbach, H. (1981) 
+Proc. Natl. Acad. Sci. USA 78, 4261--4264]. Using this dipeptide system, we have 
+investigated the expression of genes carried on plasmids coding for
+beta-lactamase, ribosomal protein L12, and the chloroplast large subunit (LS) of 
+ribulosebisphosphate carboxylase (RbuBPCase). Although all three nascent gene
+products begin with the sequence fMet-Ser, the formation of fMet-Ser can be used 
+to distinguish between the synthesis of beta-lactamase and either L12 or the LS
+of RbuBPCase by using different serine isoacceptor tRNA species. In
+beta-lactamase, the serine codon is AGU, which utilizes the serine isoacceptor
+species tRNASer3; in L12 and the LS of RbuBPCase, the serine codewords are UCU
+and UCA, respectively, both of which are recognized by the serine isoacceptor
+species tRNASer1. By using either pure tRNASer1 or pure tRNASer3, the expression 
+of each gene can be quantitated. In this system,
+guanosine-5'-diphosphate-3'-diphosphate inhibits the expression of the
+beta-lactamase and L12 genes but stimulates the synthesis of the LS. In addition,
+the ratio of fMet-Ser/fMet-Ala (L12/L10) synthesized was about 1 as compared with
+the ratio of 4 that has been obtained previously in vivo or in vitro
+protein-synthesizing systems in which the entire gene product was measured.
+
+
+PMCID: PMC345994
+PMID: 6803242  [Indexed for MEDLINE]
+
+
+83. Mol Cell Biochem. 1981 Apr 13;36(1):47-63.
+
+Chemistry and biology of E. coli ribosomal protein L12.
+
+Brot N, Weissbach H.
+
+E. coli ribosomal protein L12, because of its unique features, has been studied
+in more detail than perhaps any of the other ribosomal proteins. Unlike the other
+ribosomal proteins that are generally present in stoichiometric amounts, there
+are four copies of L12 per ribosome, some of which are acetylated on the
+N-terminal serine. The acetylated species, referred to as L7, has not been shown,
+as yet, to possess any different biological activity than L12. A specific enzyme 
+that acetylates L12 to form L7, using acetyl-CoA as the acetyl donor, has been
+purified from E. coli extracts. L12 is also unique in that it does not contain
+cysteine, tryptophan, histidine, or tyrosine, is very acidic (pI: 4.85) and has a
+high content of ordered secondary structure (approximately 50%). The protein is
+normally found in solution as a dimer and also forms a tight complex with
+ribosomal protein L10. There are three methionine residues in L12, located in the
+N-terminal region of the protein, one or more of which are essential for
+biological activity. Oxidation of the methionines to methionine sulfoxide
+prevents dimer formation and inactivates the protein. The four copies of L12 are 
+located in the crest region(s) of the 50S ribosomal subunit. There is good
+evidence that the soluble factors, such as IF-2, EF-Tu, EF-G and RF, interact
+with L12 on the ribosome during the process of protein synthesis. This
+interaction is essential for the proper functioning of each of the factors and
+for GTP hydrolysis associated with the individual partial reactions of protein
+synthesis. The L12 gene is located on an operon that contains the genes for L10
+and beta beta' subunits of RNA polymerase at about 88 min on the bacterial
+chromosome. DNA-directed in vitro systems have been used to study the unique
+regulation of the expression of these genes. Autogenous regulation, translational
+control, and transcription attenuation are regulatory mechanisms that function to
+control the synthesis of these proteins.
+
+
+PMID: 7017380  [Indexed for MEDLINE]
+
+
+84. Proc Natl Acad Sci U S A. 1981 Apr;78(4):2155-8.
+
+Enzymatic reduction of protein-bound methionine sulfoxide.
+
+Brot N, Weissbach L, Werth J, Weissbach H.
+
+An enzyme that catalyzes the reduction of methionine sulfoxide residues in
+ribosomal protein L12 has been partially purified from Escherichia coli extracts.
+Methionine sulfoxide present in oxidize [Met]enkephalin is also reduced by the
+purified enzyme. The enzyme is different from a previously reported E. coli
+enzyme that catalyzes the reduction of methionine sulfoxide to methionine [Ejiri,
+S. I., Weissbach, H. & Brot, N. (1980) Anal. Biochem. 102, 393--398]. Extracts of
+rat tissues, Euglena gracilis, Tetrahymena pyriformis, HeLa cells, and spinach
+also can catalyze the reduction of methionine sulfoxide residues in protein.
+
+
+PMCID: PMC319302
+PMID: 7017726  [Indexed for MEDLINE]
+
+
+85. Mol Gen Genet. 1981;183(3):473-7.
+
+Ribosomal protein modification in Escherichia coli. III. Studies of mutants
+lacking an acetylase activity specific for protein L12.
+
+Isono S, Isono K.
+
+Among mutants of E. coli selected for temperature-sensitive growth, four were
+found to possess alterations in ribosomal proteins L7/L12. Of these, three
+apparently lack protein L7, the acetylated form of protein L12. Genetic analyses 
+have revealed that the mutation responsible for this alteration maps at a locus
+around 34 min of the current E. coli genetic map, which is clearly different from
+the location for the structural gene for protein L7/L12 which is situated at 89
+min. Hence, the gene affected in these mutants was termed rimL. Tryptic and
+thermolysin fingerprints of the protein L12 purified from the rimL mutants showed
+a profile indistinguishable from that of wild-type protein. It was found that the
+assayed in vitro, in the high-speed supernatant prepared from mutant cells. These
+results indicated that the three mutants contain mutations in the gene rimL codes
+for an acetylating enzyme specific for ribosomal protein L12.
+
+
+PMID: 7038378  [Indexed for MEDLINE]
+
+
+86. J Bacteriol. 1980 Dec;144(3):904-16.
+
+Characterization of promoter-cloning plasmids: analysis of operon structure in
+the rif region of Escherichia coli and isolation of an enhanced internal promoter
+mutant.
+
+An G, Friesen JD.
+
+Using the promotor-cloning vehicle described by An and Friesen (J. Bacteriol.
+140:400-410, 1979), Escherichia coli chromosomal deoxyribonucleic acid fragments 
+derived from the lambda drifd18 transducing phage were cloned in one of several
+unique restriction endonuclease sites adjacent to tetracycline(tet) genes that
+lack their own promotor. One of these plasmids has been used to isolate nine
+variants having mutations that lie in a putative internal promoter which is
+located between rplL and rpoB. Deoxyribonucleic acid sequence analysis revealed
+that, in all nine mutants, a single base change, C to T, in the ribonucleic acid 
+polymerase recognition site led to a large increase in promoter activity.
+Analysis of a variety of plasmids in which tet is fused to various promoters
+yielded the following results: (i) rplK and rplA, genes for ribosomal protein L11
+and L1, respectively, were cotranscribed from a common promoter located upstream 
+from rplK; (ii) there was a strong promoter in the region between the rplKA
+operon and rplJ, the gene for ribosomal protein L10; (iii) an attenuator region
+was located between rplL, the gene for ribosomal protein L12, and rpoB, the gene 
+for ribonucleic acid polymerase subunit beta; (iv) transcription terminated
+immediately after rpoC, the gene for ribonucleic acid polymerase subunit beta';
+(v) a gene coding for unknown protein U, which is located between tufB and the
+rplKA operon, had its own promoter; (vi) the tufB gene was separated from all of 
+the genes described above and had its own promoter.
+
+
+PMCID: PMC294752
+PMID: 7002914  [Indexed for MEDLINE]
+
+
+87. Proc Natl Acad Sci U S A. 1980 May;77(5):2592-5.
+
+Autogenous control of Escherichia coli ribosomal protein L10 synthesis in vitro.
+
+Brot N, Caldwell P, Weissbach H.
+
+The DNA-dependent in vitro synthesis of Escherichia coli ribosomal protein L10
+was inhibited when L10 was added to the protein-synthesizing incubations.
+Addition of L10 had little or no effect on the synthesis of ribosomal protein
+L12, elongation factor Tu (tufB), or the beta and beta' subunits of RNA
+polymerase. In addition, ribosomal protein L12 did not inhibit its own synthesis 
+or the synthesis of L10. Experiments using a mRNA-directed system showed that the
+inhibition of the synthesis of L10 by itself is at the level of translation of
+protein synthesis. The mechanism of inhibition does not appear to be due to
+increased degradation of L10 mRNA.
+
+
+PMCID: PMC349448
+PMID: 6994102  [Indexed for MEDLINE]
+
+
+88. Proc Natl Acad Sci U S A. 1979 Apr;76(4):1716-20.
+
+In vitro regulation of DNA-dependent synthesis of Escherichia coli ribosomal
+protein L12.
+
+Goldberg G, Caldwell P, Weissbach H, Brot N.
+
+The DNA of the transducing phage lambdarifd18 contains, among others, the genes
+for the ribosomal proteins L11, L1, L10, and L12 and the beta and beta' subunits 
+of RNA polymerase (nucleosidetriphosphate:RNA nucleotidyltransferase, EC
+2.7.7.6). In a coupled in vitro protein-synthesis system, lambdarifd18 DNA
+directs the synthesis of about four to five molecules of L12 per molecule of L10.
+This is consistent with the finding that there are four copies of L12 per
+ribosome. The ratio of L12/L10 was also examined from an EcoRI fragment of
+lambdarifd18 that contains the L10 gene and about 50% of the L12 gene. A
+significantly lower ratio of truncated L12/L10 was observed compared to the
+intact phage. The binding of RNA polymerase to various lambdarifd18 DNA
+restriction fragments was used to locate possible promoter sites. These binding
+experiments suggest that the beta and beta' subunits of RNA polymerase are
+cotranscribed with at least ribosomal protein L12 and, also, that there may be an
+additional promoter site for the L12 gene within the structural gene for L10.
+
+
+PMCID: PMC383461
+PMID: 287012  [Indexed for MEDLINE]
+
+
+89. Proc Natl Acad Sci U S A. 1978 Nov;75(11):5349-52.
+
+Oxidation of the methionine residues of Escherichia coli ribosomal protein L12
+decreases the protein's biological activity.
+
+Caldwell P, Luk DC, Weissbach H, Brot N.
+
+Oxidation of ribosomal protein L12 with hydrogen peroxide converts the three
+methionine residues to methionine sulfoxide. The oxidized protein has a decreased
+ability to bind to ribosomes, interact with ribosomal protein L10, be
+precipitated by L12 antiserum, and serve as substrate for the acetylating enzyme 
+that converts L12 to L7. Full activity of L12 is regained when the protein is
+reduced with 2-mercaptoethanol. Sedimentation equilibrium analysis shows that
+oxidation of the methionine residues in L12 causes the conversion of the protein 
+from the dimer to the monomer form, and the results indicate that the dimer is
+the active form of the protein in the above reactions.
+
+
+PMCID: PMC392960
+PMID: 364476  [Indexed for MEDLINE]
+
+
+90. Eur J Biochem. 1977 Oct 17;80(1):35-41.
+
+Topography of Escherichia coli ribosomal protein L12 in situ.
+
+Hasnain S, Visentin LP.
+
+The ionization constants of each individual free amino group of Escherichia coli 
+ribosomal protein L12 as it exists on the native intact 50-S subunit has been
+determined. All these amino groups are exposed and have pK values varying from
+9.7 to 11.0. The amino terminus, on the other hand, is unreactive and therefore
+appears to be buried. In addition, the reactivities indicate that the
+aminoterminal region of residues 1--59 undergoes a pH-dependent conformational
+change on the 50-S subunit.
+
+
+PMID: 336367  [Indexed for MEDLINE]
+
+
+91. Proc Natl Acad Sci U S A. 1976 Sep;73(9):3156-9.
+
+DNA dependent synthesis of protein L12 from escherichia coli ribosomes, in vitro.
+
+Chu F, Kung HF, Caldwell P, Weissbach H, Brot N.
+
+The in vitro synthesis of ribosomal protein L12 has been obtained in a coupled
+system with DNA extracted from the transducing phage lambdarifd18 as template. In
+addition, a second protein (molecular weight of 16,000) with immunological,
+chemical, and ribosome-binding characteristics similar to L12 is formed in this
+in vitro system. The synthesis of both proteins is depressed by one-half when
+guanosine-5'-diphosphate-3'-diphosphate is added to the reaction mixture.
+
+
+PMCID: PMC430964
+PMID: 787986  [Indexed for MEDLINE]
+
+
+92. Proc Natl Acad Sci U S A. 1974 May;71(5):2136-40.
+
+Alteration in the acetylation level of ribosomal protein L12 during growth cycle 
+of Escherichia coli.
+
+Ramagopal S, Subramanian AR.
+
+The relative content in ribosomes of L7 and L12, the two forms of a protein in
+the 50S subunit specifically involved in GTP hydrolysis, is found to undergo a
+striking shift with the growth phase of E. coli. The content of L12
+(nonacetylated form) increases during early logarithmic phase, becoming about 85%
+of the total before midlogarithmic phase. Thereafter, L7 (N-acetylated form)
+content begins to increase, eventually becoming 75-80% in stationary phase. The
+L7 + L12 content per ribosome, however, remained constant during this shift. Our 
+evidence suggests that the shift did not occur through modification of
+preexisting ribosomes. The data further indicate that the E. coli cell may
+contain more than one structurally distinct (with regard to L7 or L12 content)
+50S subunit population.
+
+
+PMCID: PMC388402
+PMID: 4600787  [Indexed for MEDLINE]
+
