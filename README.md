@@ -1,10 +1,12 @@
 # genefindr
+
+*Genefindr is currently converted into a Shiny app.*
  
 ``` r
 # Select abstract files
 abstractFileNames = c("hiv 110422.txt",
-"bcells 28793.txt",
-"tcells 84002.txt")
+                      "bcells 28793.txt",
+                      "tcells 84002.txt")
  
 names(abstractFileNames) = abstractFileNames
  
