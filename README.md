@@ -1,6 +1,8 @@
 # genefindr
 
 *Genefindr is currently converted into a Shiny app.*
+
+## Example
  
 ``` r
 # Select abstract files
