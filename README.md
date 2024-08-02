@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/485934720.svg)](https://zenodo.org/doi/10.5281/zenodo.13167120)
+
 # genefindr
 
 *Genefindr is currently converted into a Shiny app.*
